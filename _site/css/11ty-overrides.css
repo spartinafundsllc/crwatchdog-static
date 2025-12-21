@@ -1,0 +1,37 @@
+/* --- 1) Remove WP admin-bar padding assumptions --- */
+html {
+  padding-top: 0 !important;
+}
+body {
+  margin-top: 0 !important;
+}
+
+/* --- 2) Mobile menu bar overlays content: reserve space for it --- */
+/* The responsive menu bar is typically ~42–52px tall. We'll reserve 52px. */
+@media only screen and (max-width: 1023px) {
+  /* Make sure the bar is on top */
+  #wprmenu_bar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 99999 !important;
+  }
+
+  /* Push the whole site down so header is visible */
+  .site-container {
+    padding-top: 52px !important;
+  }
+
+  /* Defensive: some themes use site-inner spacing */
+  .site-inner {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Ensure header is not accidentally positioned offscreen */
+  .site-header {
+    position: relative !important;
+    top: 0 !important;
+  }
+}

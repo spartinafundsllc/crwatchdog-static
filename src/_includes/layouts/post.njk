@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+---
+
+{# Optional featured image via front matter:
+   image: /wp-content/uploads/2024/10/your-image.jpg
+   imageAlt: "..."
+#}
+{% if image %}
+<img src="{{ image }}" class="attachment-post-image size-post-image wp-post-image" alt="{{ imageAlt or '' }}" decoding="async" fetchpriority="high">
+{% endif %}
+
+<article class="entry">
+  <header class="entry-header">
+    <h1 class="entry-title">{{ title }}</h1>
+
+    <p class="entry-meta">
+      {% if date %}
+        <time class="entry-time" datetime="{{ date | date('yyyy-MM-dd') }}">{{ date | date('MMMM d, yyyy') }}</time>
+      {% endif %}
+
+      {% if author %}
+        By <span class="entry-author"><span class="entry-author-name">{{ author }}</span></span>
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="entry-content">
+    {{ content | safe }}
+  </div>
+
+  <footer class="entry-footer"></footer>
+</article>
