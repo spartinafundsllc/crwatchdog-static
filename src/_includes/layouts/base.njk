@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <title>{% if title %}{{ title }}{% else %}CRwatchdog{% endif %}</title>
+
+    {% if description %}
+    <meta name="description" content="{{ description | escape }}" />
+    {% endif %}
+
+    {% if canonical %}
+    <link rel="canonical" href="{{ canonical }}" />
+    {% endif %}
+
+    {# If your static export has a site stylesheet, you can link it here.
+       Example (adjust to your actual path):
+       <link rel="stylesheet" href="/wp-content/themes/your-theme/style.css" />
+    #}
+    {% if site.googleAnalyticsId %}
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googleAnalyticsId }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.googleAnalyticsId }}', {
+        anonymize_ip: true
+     });
+    </script>
+    {% endif %}
+
+
+
+  </head>
+
+  <body>
+    <header style="max-width: 900px; margin: 24px auto; padding: 0 16px;">
+      <a href="/" style="text-decoration:none; font-weight:700; font-size: 20px;">
+        CRwatchdog
+      </a>
+    </header>
+
+    <main style="max-width: 900px; margin: 0 auto; padding: 0 16px;">
+      {{ content | safe }}
+    </main>
+
+    <footer style="max-width: 900px; margin: 48px auto 24px; padding: 0 16px; font-size: 14px; opacity: 0.8;">
+      <p>
+        © {{ "now" | date("yyyy") }} CRwatchdog ·
+        <a href="/about/">About</a>
+      </p>
+    </footer>
+  </body>
+</html>
