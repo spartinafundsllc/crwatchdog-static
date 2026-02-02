@@ -1,0 +1,360 @@
+---
+layout: home.njk
+title: CRwatchdog
+permalink: /
+---
+
+{# --------------------------------------------------------------------
+   Hard-coded homepage (no WP parsing)
+   We only keep the SAME DOM structure the theme expects:
+   - hero + categories INSIDE .site-inner > .content-sidebar-wrap > main.content
+   - the rest of the homepage sections OUTSIDE that wrapper
+--------------------------------------------------------------------- #}
+
+{% set hero = {
+  title: "Best TV for 2026 According to Consumer Reports",
+  url: "/best-tvs-of-2026-according-to-consumer-reports/",
+  img: "/wp-content/uploads/2018/04/best-TV-consumer-reports-1500x720.jpg",
+  excerpt: "Choosing the best TV can be tough and confusing. Each brand claims to be the best. To make your buying decision easier, we've picked out the top recommendation from Consumer Reports for each type and every budget. We include OLED, LCD, and LED televisions. A 4K TV is a must if you have an Xbox One …"
+} %}
+
+{% set categories = [
+  { label: "Electronics", img: "/wp-content/uploads/2018/01/icons8-smartphone-tablet-50.png" },
+  { label: "Home & Garden", img: "/wp-content/uploads/2018/01/icons8-home-50.png" },
+  { label: "Car Deals", img: "/wp-content/uploads/2018/01/icons8-steering-wheel-50.png" },
+  { label: "Appliances", img: "/wp-content/uploads/2018/02/icons8-blender-50.png" }
+] %}
+
+{# ----------------------------
+   HOMEPAGE SEED CONTENT
+   (used only as fallback when collections are empty)
+   ---------------------------- #}
+
+{% set latest_main_fallback = {
+  title: "These Are Consumer Reports’ Picks for the Best High-End Dishwashers",
+  url: "/these-are-consumer-reports-picks-for-the-best-high-end-dishwashers/",
+  img: "/wp-content/uploads/2025/12/Thermador-dishwasher-1-600x420.webp",
+  cat: "Appliances"
+} %}
+
+{% set latest_two_fallback = [
+  {
+    title: "This $65 Space Heater Outperformed a $500 Dyson, According to Consumer Reports",
+    url: "/this-65-space-heater-outperformed-a-500-dyson-according-to-consumer-reports/",
+    img: "/wp-content/uploads/2025/11/419063-smaller-heaters-lasko-artisan-series-cx16550-10048016-286x250.webp",
+    cat: "Appliances"
+  },
+  {
+    title: "Best Steam Mops of 2025 (Consumer Reports Tested & Ranked)",
+    url: "/best-steam-mops-of-2025-consumer-reports-tested-ranked/",
+    img: "/wp-content/uploads/2025/10/415368-steam-mops-karcher-sc-3-upright-easyfix-10040944-286x250.webp",
+    cat: "Appliances"
+  }
+] %}
+
+{% set latest_three_fallback = [
+  {
+    title: "Best French Door Refrigerators by Consumer Reports 2025",
+    url: "/best-french-door-refrigerators-by-consumer-reports-2025/",
+    img: "/wp-content/uploads/2024/10/best-french-door-refrigerators-405x255.jpg",
+    cat: "Appliances",
+    excerpt: "You’d be lying if you said that the best French door refrigerators never caught your eye every time you visit an electronics or appliance store. These models, aside from being attractive, offer a lot"
+  },
+  {
+    title: "Best Checked Luggage of 2025 (Consumer Reports Tested & Rated)",
+    url: "/best-checked-luggage-of-2025-consumer-reports-tested-rated/",
+    img: "/wp-content/uploads/2025/10/delsey_checked-405x255.webp",
+    cat: "Travel",
+    excerpt: "When you hand your suitcase to the airline, you’re basically saying: I trust you with my wardrobe, my gifts, and my dignity."
+  },
+  {
+    title: "Best Carry-On Luggage of 2025 (Consumer Reports–Inspired Rankings)",
+    url: "/best-carry-on-luggage-of-2025-consumer-reports-inspired-rankings/",
+    img: "/wp-content/uploads/2025/10/samsonite.jpg-405x255.webp",
+    cat: "Travel",
+    excerpt: "Choosing a carry-on isn’t just about fitting a bag into the overhead bin. …"
+  }
+] %}
+
+{% set cars_fallback = [
+  {
+    title: "These Are the Best SUVs Under $30,000 According to Consumer Reports",
+    url: "/these-are-the-best-suvs-under-30000-according-to-consumer-reports/",
+    img: "/wp-content/uploads/2025/06/word-image-2622-1-405x255.jpeg",
+    excerpt: "Best Subcompact SUVs Under $30,000 …"
+  },
+  {
+    title: "Best New Cars and SUVs Under $30K – You Won’t Believe the Features!",
+    url: "/best-new-cars-and-suvs-under-30k-you-wont-believe-the-features/",
+    img: "/wp-content/uploads/2024/10/Best-New-Cars-and-SUVs-Under-30K-405x255.jpg",
+    excerpt: "Consumer Reports has selected the best new cars and SUVs under $30K …"
+  },
+  {
+    title: "Best Cars According to Consumer Reports 2024",
+    url: "/best-cars-according-consumer-reports-2018/",
+    img: "/wp-content/uploads/2018/03/best-cards-according-to-consumer-reports-405x255.jpg",
+    excerpt: "After an extensive evaluation of over 200 vehicles …"
+  }
+] %}
+
+{# =========================
+   HERO + CATEGORIES (inside main.content)
+   ========================= #}
+
+{# =========================
+   COLLECTIONS (dynamic)
+   ========================= #}
+{% set latestItems = collections.homepageLatest or [] %}
+{% set carsItems = collections.latestCars or [] %}
+
+{# ----------------------------
+   Compute dynamic blocks for "Latest Articles"
+   - Uses collections.homepageLatest
+   - Falls back to the seed content above if needed
+   ---------------------------- #}
+
+{% set latestMainItem = latestItems[0] %}
+{% if latestMainItem %}
+  {% set latest_main = {
+    title: latestMainItem.data.title,
+    url: latestMainItem.url,
+    img: (latestMainItem.data.image or latestMainItem.data.featured_image or latest_main_fallback.img),
+    cat: (latestMainItem.data.category or latest_main_fallback.cat),
+    excerpt: (latestMainItem.data.description or latestMainItem.data.excerpt or "")
+  } %}
+{% else %}
+  {% set latest_main = latest_main_fallback %}
+{% endif %}
+<div class="site-inner">
+  <div class="content-sidebar-wrap">
+    <main class="content">
+
+      <div id="home-main-featured" class="home-main-featured">
+        <section id="featured-post-2" class="widget featured-content featuredpost">
+          <div class="widget-wrap">
+            <article class="entry has-post-thumbnail" aria-label="{{ hero.title }}">
+              <a href="{{ hero.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+                <img src="{{ hero.img }}" class="entry-image attachment-post" alt="">
+              </a>
+              <header class="entry-header">
+                <h2 class="entry-title"><a href="{{ hero.url }}">{{ hero.title }}</a></h2>
+              </header>
+              <div class="entry-content">
+                <p>{{ hero.excerpt }} <a href="{{ hero.url }}" class="more-link">Read More</a></p>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="widget category-block widget_custom_html">
+          <div class="widget-wrap">
+            <div class="textwidget custom-html-widget">
+              <div class="cw-categories">
+                {% for c in categories %}
+                  <div class="category">
+                    <img src="{{ c.img }}" alt="">
+                    {{ c.label }}
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+
+    </main>
+  </div>
+</div>
+
+{# =========================
+   LATEST ARTICLES (outside main.content)
+   ========================= #}
+<div id="home-featured-post-1" class="home-featured-post-1">
+
+  <section class="widget title-widget widget_custom_html">
+    <div class="widget-wrap">
+      <div class="textwidget custom-html-widget">
+        <h2 class="home-section-title">
+          <span>Latest</span><br>Articles
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <section id="featured-post-3" class="widget main-post widget featured-content featuredpost">
+    <div class="widget-wrap">
+      <article class="entry has-post-thumbnail" aria-label="{{ latest_main.title }}">
+        <a href="{{ latest_main.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+          <img src="{{ latest_main.img }}" class="entry-image attachment-post" alt="">
+        </a>
+        <header class="entry-header">
+          <h2 class="entry-title"><a href="{{ latest_main.url }}">{{ latest_main.title }}</a></h2>
+        </header>
+      </article>
+    </div>
+  </section>
+
+  <section id="featured-post-4" class="widget two-column-post widget featured-content featuredpost">
+    <div class="widget-wrap">
+      {# Dynamic: next two newest posts (after the main one) #}
+      {% set latestTwoDynamic = latestItems.slice(1, 3) %}
+
+      {% for item in latestTwoDynamic %}
+        {% set p = {
+          title: item.data.title,
+          url: item.url,
+          img: (item.data.image or item.data.featured_image or latest_main_fallback.img),
+          cat: (item.data.category or "")
+        } %}
+        <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+          <a href="{{ p.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+            <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+          </a>
+          <header class="entry-header">
+            <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+            {% if p.cat %}<p class="entry-meta"><span class="entry-categories">{{ p.cat }}</span></p>{% endif %}
+          </header>
+        </article>
+      {% endfor %}
+
+      {# Fallback: fill remaining slots (if fewer than 2 dynamic items) #}
+      {% if latestTwoDynamic.length < 2 %}
+        {% set remaining = 2 - latestTwoDynamic.length %}
+        {% for p in latest_two_fallback %}
+          {% if loop.index0 < remaining %}
+            <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+              <a href="{{ p.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+                <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+              </a>
+              <header class="entry-header">
+                <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+                {% if p.cat %}<p class="entry-meta"><span class="entry-categories">{{ p.cat }}</span></p>{% endif %}
+              </header>
+            </article>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+
+  <section id="featured-post-5" class="widget three-column-post widget featured-content featuredpost">
+    <div class="widget-wrap">
+      {# Dynamic: next three newest posts (after main + two-column) #}
+      {% set latestThreeDynamic = latestItems.slice(3, 6) %}
+
+      {% for item in latestThreeDynamic %}
+        {% set p = {
+          title: item.data.title,
+          url: item.url,
+          img: (item.data.image or item.data.featured_image or latest_main_fallback.img),
+          cat: (item.data.category or ""),
+          excerpt: (item.data.description or item.data.excerpt or "")
+        } %}
+        <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+          <a href="{{ p.url }}" class="alignnone" aria-hidden="true" tabindex="-1">
+            <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+          </a>
+          <header class="entry-header">
+            <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+            {% if p.cat %}<p class="entry-meta"><span class="entry-categories">{{ p.cat }}</span></p>{% endif %}
+          </header>
+          {% if p.excerpt %}
+          <div class="entry-content">
+            <p>{{ p.excerpt }} <a href="{{ p.url }}" class="more-link">Read More</a></p>
+          </div>
+          {% endif %}
+        </article>
+      {% endfor %}
+
+      {# Fallback: fill remaining slots (if fewer than 3 dynamic items) #}
+      {% if latestThreeDynamic.length < 3 %}
+        {% set remaining = 3 - latestThreeDynamic.length %}
+        {% for p in latest_three_fallback %}
+          {% if loop.index0 < remaining %}
+            <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+              <a href="{{ p.url }}" class="alignnone" aria-hidden="true" tabindex="-1">
+                <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+              </a>
+              <header class="entry-header">
+                <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+                {% if p.cat %}<p class="entry-meta"><span class="entry-categories">{{ p.cat }}</span></p>{% endif %}
+              </header>
+              {% if p.excerpt %}
+              <div class="entry-content">
+                <p>{{ p.excerpt }} <a href="{{ p.url }}" class="more-link">Read More</a></p>
+              </div>
+              {% endif %}
+            </article>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+
+</div>
+
+{# =========================
+   LATEST FROM CARS (outside main.content)
+   ========================= #}
+<div id="home-featured-post-3" class="home-featured-post-3">
+  <section class="widget widget_custom_html">
+    <div class="widget-wrap">
+      <div class="textwidget custom-html-widget">
+        <h2 class="home-section-title">
+          <span>Latest from</span><br>Cars
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <section id="featured-post-7" class="widget three-column-post widget featured-content featuredpost">
+    <div class="widget-wrap">
+      {# Dynamic: up to 3 latest car posts #}
+      {% set carsDynamic = carsItems.slice(0, 3) %}
+
+      {% for item in carsDynamic %}
+        {% set p = {
+          title: item.data.title,
+          url: item.url,
+          img: (item.data.image or item.data.featured_image or cars_fallback[0].img),
+          excerpt: (item.data.description or item.data.excerpt or "")
+        } %}
+        <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+          <a href="{{ p.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+            <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+          </a>
+          <header class="entry-header">
+            <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+          </header>
+          {% if p.excerpt %}
+          <div class="entry-content">
+            <p>{{ p.excerpt }} <a href="{{ p.url }}" class="more-link">Read More</a></p>
+          </div>
+          {% endif %}
+        </article>
+      {% endfor %}
+
+      {# Fallback: fill remaining slots if fewer than 3 car posts exist #}
+      {% if carsDynamic.length < 3 %}
+        {% set remaining = 3 - carsDynamic.length %}
+        {% for p in cars_fallback %}
+          {% if loop.index0 < remaining %}
+            <article class="entry has-post-thumbnail" aria-label="{{ p.title }}">
+              <a href="{{ p.url }}" class="aligncenter" aria-hidden="true" tabindex="-1">
+                <img src="{{ p.img }}" class="entry-image attachment-post" alt="">
+              </a>
+              <header class="entry-header">
+                <h2 class="entry-title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+              </header>
+              {% if p.excerpt %}
+              <div class="entry-content">
+                <p>{{ p.excerpt }} <a href="{{ p.url }}" class="more-link">Read More</a></p>
+              </div>
+              {% endif %}
+            </article>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+</div>

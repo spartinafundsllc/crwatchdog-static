@@ -1,0 +1,49 @@
+# Implementation Plan - Automated Publishing Workflow
+
+The goal is to adapt the [publish_article_monitornerds.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_monitornerds.py) script to create [publish_article_crwatchdog.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_crwatchdog.py) for automating the article publishing process.
+
+## User Review Required
+
+> [!NOTE]
+> I will assume the [.env](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/.env) file already contains the correct API keys (Amazon PA-API, GeniusLink) for CRwatchdog, or that you will provide them.
+
+> [!IMPORTANT]
+> I will update the "Author Bio" section to be generic or match the site's footer ("CR watchdog is a fan site...") unless you provide a specific author persona.
+
+## Proposed Changes
+
+### 1. Create [article_processing/publish_article_crwatchdog.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_crwatchdog.py)
+I will copy and modify the existing script with the following changes:
+
+*   **Image Destinations**:
+    *   Save images to: `src/markdown_images/` (instead of `content/markdown_images`).
+    *   Update image URL paths in markdown to `/markdown_images/` (matching 11ty passthrough config).
+*   **Output Path**:
+    *   Move the final processed file directly to `src/posts/[filename].md`.
+*   **Author Bio**:
+    *   Replace "Paolo Reva" bio with a generic CRwatchdog bio or remove it if not needed (will use a placeholder for now).
+*   **Frontmatter**:
+    *   Ensure `layout: post` and other standard fields are preserved/added.
+*   **Check Price Button**:
+    *   Keep the styling but ensure it fits the CRwatchdog theme (yellow/neutral).
+
+### 2. Workflow Verification
+1.  **Draft**: Use `article_processing/casper-mattresses-what-consumer-reports-thinks-v3.md` as the test subject.
+2.  **Run Script**: Execute `python3 article_processing/publish_article_crwatchdog.py ...`
+3.  **Validate**:
+    *   Check if images appear in `src/markdown_images`.
+    *   Check if article appears in `src/posts`.
+    *   Check if Amazon links are converted to Genius links.
+    *  ### [Site Configuration]
+Summary: Implementing a redirect for legacy TV content.
+
+#### [MODIFY] [_redirects](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/_redirects)
+- Add redirect from `/best-tv-for-2023-according-to-consumer-reports/` to `/best-tvs-of-2026-according-to-consumer-reports/`
+
+## Verification Plan
+### Automated Tests
+- Use `browser_subagent` to verify that hits to the old URL redirect to the new one on localhost.
+
+## Verification
+-   **Automated**: The script prints success/failure.
+-   **Manual**: Visual inspection of the generated article on localhost.

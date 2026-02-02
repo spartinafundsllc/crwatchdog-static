@@ -1,0 +1,43 @@
+# Implementation Plan - CRwatchdog Refinements
+
+The goal is to refine the visual appearance of the site and establish a workflow for publishing new articles.
+
+## User Review Required
+
+> [!NOTE]
+> `src/posts` appears to be empty. The homepage is currently populating from fallback data in `index.njk`. Creating a new post will be the primary way to verify the "publish new articles" requirement and see dynamic content on the homepage.
+
+## Proposed Changes
+
+### Visual Refinements
+**File:** `static/css/11ty-overrides.css`
+
+I will add/modify CSS to address the following:
+1.  **Header Navigation**: Fix wrapping issues by adjusting font sizes, padding, or flex behavior for the menu items.
+2.  **Card Overlays**: Improve legibility of text on article cards (reduce transparency or add better contrast).
+3.  **Vignette/Glow**: Remove or tone down the blue glow on the container edges if it looks dated.
+4.  **Section Headers**: Align the black accent bars with text.
+5.  **Footer**: specific improvements to padding and layout to make it look less "empty".
+
+### Publishing Workflow
+**New File:** `scripts/create_post.js` (Optional helper) or just documentation.
+I will create a simple Node.js script to scaffold a new post with the correct frontmatter.
+
+**Directory Structure:**
+- New posts will go into `src/posts/YYYY/MM/slug.md` (canonical generic structure) or just `src/posts/slug.md` if the user prefers flat. Given the export, date-based folders are synonymous with WordPress. I will start with a flat structure for simplicity unless 11ty config dictates otherwise.
+
+### Content
+**New File:** `src/posts/sample-post.md`
+- I will create a sample "Hello World" post to verify the build process and homepage integration.
+
+## Verification Plan
+
+### Automated/Manual verification
+1.  **Visual Inspection**: Use the browser tool to verify fixes on `http://localhost:8080`.
+    - Check Header alignment.
+    - Check Footer appearance.
+    - Check Card readability.
+2.  **New Post Verification**:
+    - Run the new post script (or manually create file).
+    - Verify the new post appears on the homepage "Latest Articles".
+    - Click the post to ensure the single-post template renders correctly.

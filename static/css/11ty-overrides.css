@@ -1,14 +1,27 @@
+/* ============================================================
+   11ty Overrides (CRwatchdog)
+   - Keep legacy WP theme look
+   - Fix mobile menu padding assumptions
+   - Homepage rendering fixes:
+       1) Hero title/excerpt overlap
+       2) Consistent “card + shadow” styling on ALL homepage article blocks
+   ============================================================ */
+
+
 /* --- 1) Remove WP admin-bar padding assumptions --- */
 html {
   padding-top: 0 !important;
 }
+
 body {
   margin-top: 0 !important;
 }
 
+
 /* --- 2) Mobile menu bar overlays content: reserve space for it --- */
 /* The responsive menu bar is typically ~42–52px tall. We'll reserve 52px. */
 @media only screen and (max-width: 1023px) {
+
   /* Make sure the bar is on top */
   #wprmenu_bar {
     position: fixed !important;
@@ -34,4 +47,143 @@ body {
     position: relative !important;
     top: 0 !important;
   }
+}
+
+
+/* ============================================================
+   3) HOMEPAGE FIXES
+   ============================================================ */
+
+/* 3a) Fix hero headline/excerpt overlap ("Reports..." colliding with subtext)
+   Your hero is rendered inside:
+     <div id="home-main-featured" class="home-main-featured"> ...
+*/
+#home-main-featured .entry-header {
+  margin-bottom: 14px !important;
+}
+
+#home-main-featured .entry-title,
+#home-main-featured .entry-title a {
+  line-height: 1.08 !important;
+  margin: 0 0 12px 0 !important;
+}
+
+#home-main-featured .entry-content,
+#home-main-featured .entry-content p {
+  margin-top: 0 !important;
+}
+
+
+/* 3b) Ensure ALL homepage “Latest Articles” items get a card + shadow.
+   This targets the homepage blocks rendered in src/index.njk:
+     #home-featured-post-1  (Latest Articles)
+     .home-featured-post-cars (if/when you add it similarly)
+*/
+#home-featured-post-1 .featuredpost .entry,
+.home-featured-post-2 .featuredpost .entry,
+.home-featured-post-cars .featuredpost .entry {
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  /* makes rounded corners apply to images */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10);
+}
+
+/* Make sure images behave nicely inside the rounded card */
+#home-featured-post-1 .featuredpost .entry img,
+.home-featured-post-2 .featuredpost .entry img,
+.home-featured-post-cars .featuredpost .entry img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Optional: if some entries are inline/stacking weirdly, this helps spacing */
+#home-featured-post-1 .featuredpost .entry {
+  margin-bottom: 18px;
+}
+
+/* ============================================================
+   4) HEADER NAV FIXES
+   ============================================================ */
+/* Improve spacing and prevent awkward wrapping */
+.nav-header .menu {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 15px;
+  /* Use gap for clean spacing */
+}
+
+.nav-header .menu-item {
+  display: block !important;
+  float: none !important;
+  /* Override legacy floats */
+  margin-left: 0 !important;
+  /* Reset legacy margin */
+}
+
+.nav-header .menu-item a {
+  padding: 8px 10px !important;
+  /* Cleaner padding */
+  font-size: 15px !important;
+  white-space: nowrap;
+  /* Prevent breaking mid-word */
+  display: block;
+}
+
+/* Search bar alignment */
+.header-widget-area .widget_search {
+  clear: none !important;
+  margin-top: 5px !important;
+  /* Slight tweak if needed */
+}
+
+/* ============================================================
+   8) FOOTER IMPROVEMENTS
+   ============================================================ */
+/* Add padding and better layout */
+.footer-widgets {
+  background-color: #2a68c4 !important;
+  /* Ensure brand color */
+  padding: 60px 0 !important;
+  color: #fff;
+}
+
+.footer-widgets .wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 40px;
+}
+
+.footer-widget-area {
+  float: none !important;
+  width: auto !important;
+  margin-bottom: 0 !important;
+}
+
+.footer-widgets h4.widget-title {
+  color: #fff !important;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2) !important;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.footer-widgets a {
+  color: rgba(255, 255, 255, 0.85) !important;
+  text-decoration: none;
+}
+
+.footer-widgets a:hover {
+  color: #fff !important;
+  text-decoration: underline;
+}
+
+.footer-logo img {
+  max-width: 180px;
+  margin-bottom: 15px;
+  filter: brightness(0) invert(1);
+  /* Make logo white if it's not transparent */
 }

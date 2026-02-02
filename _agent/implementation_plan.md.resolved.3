@@ -1,0 +1,27 @@
+# Implementation Plan - Article Publishing
+
+The goal is to publish the "Casper Mattresses" article from the draft folder to the live site.
+
+## User Review Required
+
+> [!NOTE]
+> The draft [casper-mattresses-what-consumer-reports-thinks-v3.md](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/casper-mattresses-what-consumer-reports-thinks-v3.md) does not currently contain any images. If images are intended, they need to be added. I will proceed with publishing the text-only version first.
+
+## Proposed Changes
+
+### Publish Article
+1.  **Move Draft**: Copy [article_processing/casper-mattresses-what-consumer-reports-thinks-v3.md](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/casper-mattresses-what-consumer-reports-thinks-v3.md) to `src/posts/casper-mattresses-consumer-reports-review.md`.
+    *   *Rename*: Shorten the filename for a cleaner URL/file path.
+2.  **Frontmatter Formatting**: Ensure the frontmatter matches what 11ty expects.
+    *   Current: `layout: "post"`.
+    *   Verify [src/_includes/layouts/post.njk](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/src/_includes/layouts/post.njk) exists (it appeared in file list earlier).
+    *   The `rubric` or `category` might need adjustment to match existing tags (e.g., "Home", "Mattresses").
+
+### Build & Verify
+1.  **Rebuild**: 11ty should auto-build when the file is added.
+2.  **Verify**: Check `http://localhost:8080/` to see if it appears in "Latest Articles".
+3.  **Inspect**: Click through to the article to verify rendering.
+
+## Verification
+-   **Localhost**: Open the new article URL.
+-   **Content**: Check title, date, and body text formatting.

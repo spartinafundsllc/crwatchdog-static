@@ -1,0 +1,66 @@
+# Visual Refinements Walkthrough
+
+I have successfully refined the Header and Footer of the CRwatchdog homepage as requested.
+
+## Visual Refinements
+-   **Header Navigation**: Fixed wrapping issues by enabling flexbox (`display: flex`) and adjusting padding/spacing (`gap: 15px`).
+-   **Footer**: Added significant padding (`60px` top/bottom) and implemented a CSS Grid layout.
+
+### Header/Footer
+![Header Cleanup](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/site_header_1770047545699.png)
+![Footer Cleanup](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/site_footer_1770047559443.png)
+
+# Article Publishing Automation
+
+I have created [publish_article_crwatchdog.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_crwatchdog.py) to automate the publishing workflow.
+
+## Features
+-   **Auto-Image Processing**: Downloads images from Amazon and saves them to `src/markdown_images`.
+-   **Link Conversion**: Converts Amazon links to GeniusLinks (`geni.us`).
+-   **Styling**: Injects a custom CRwatchdog-blue "Check Price on Amazon" button.
+-   **Output**: Saves content to `src/posts`.
+
+## Verification
+
+### 1. Casper Mattresses
+-   **Status**: Live on Localhost
+-   **Links**: Verified `geni.us` conversion.
+
+![Casper Article](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/casper_post_preview_1770049598980.png)
+
+### 2. Best Pro-Style Ranges
+-   **Status**: Live on Localhost
+-   **Links**: Verified `geni.us` conversion for buttons and text links.
+-   **Images**: Hero image and 4 product images downloaded successfully.
+
+![Pro-Style Ranges Article](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/pro_style_ranges_article_1770051547042.png)
+
+### 3. Best TVs of 2026
+-   **Status**: Live on Localhost
+-   **Links**: Verified `geni.us` conversion (16 products total).
+-   **Images**: Successfully fetched 16 high-res product images.
+
+![Best TVs Article](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/tv_article_hero_and_button_1770057612129.png)
+
+# Redirect Setups
+
+I implemented a redirect for the legacy TV article to point to the new 2026 version.
+
+-   **Source**: `/best-tv-for-2023-according-to-consumer-reports/`
+-   **Destination**: `/best-tvs-of-2026-according-to-consumer-reports/`
+-   **Method**: 
+    1.  Added to `_redirects` file (for production/Netlify).
+    2.  Added a client-side meta-refresh and JS redirect to the legacy `index.html` (for local development).
+
+## Verification
+I verified that hitting the old URL on localhost correctly redirects to the new article.
+
+# Homepage Updates
+
+I updated the homepage to feature the new **"Best TVs of 2026"** article as the hero content.
+
+-   **Update**: Changed title to "Best TV for 2026 According to Consumer Reports".
+-   **Link**: Updated "Read More" and hero links to point to the 2026 article.
+-   **Exclusion**: Verified that the article is hidden from the "Latest Articles" section to avoid duplication.
+
+![Homepage Hero](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/reverify_homepage_exclusion_1770057915493.png)

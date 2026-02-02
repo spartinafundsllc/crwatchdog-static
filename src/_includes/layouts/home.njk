@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{% if title %}{{ title }}{% else %}CRwatchdog{% endif %}</title>
+
+  {% if description %}
+  <meta name="description" content="{{ description | escape }}" />
+  {% endif %}
+
+  {% if canonical %}
+  <link rel="canonical" href="{{ canonical }}" />
+  {% endif %}
+
+  <link rel="stylesheet" id="crwatchdog-com-css" href="/wp-content/themes/crwatchdog/style.css?ver=1.0.01" type="text/css" media="all">
+  <link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.6.4" type="text/css" media="all">
+
+  <link rel="stylesheet" id="hamburger.css-css" href="/wp-content/plugins/wp-responsive-menu/assets/css/wpr-hamburger.css?ver=3.1.8" type="text/css" media="all">
+  <link rel="stylesheet" id="wprmenu.css-css" href="/wp-content/plugins/wp-responsive-menu/assets/css/wprmenu.css?ver=3.1.8" type="text/css" media="all">
+  <style id="wprmenu.css-inline-css" type="text/css">
+@media only screen and ( max-width: 1023px ) {html body div.wprm-wrapper {overflow: scroll;}#wprmenu_bar {background-image: url();background-size: cover ;background-repeat: repeat;}#wprmenu_bar {background-color: #2a68c4;}html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {color: #FFFFFF;}#wprmenu_bar .menu_title,#wprmenu_bar .wprmenu_icon_menu,#wprmenu_bar .menu_title a {color: #FFFFFF;}#wprmenu_bar .menu_title a {font-size: 16px;font-weight: normal;}#mg-wprm-wrap li.menu-item a {font-size: 15px;text-transform: none;font-weight: 700;}#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {font-size: 15px;text-transform: none;font-weight: 700;}#mg-wprm-wrap li.current-menu-item > a {background: #014fc4;}#mg-wprm-wrap li.current-menu-item > a,#mg-wprm-wrap li.current-menu-item span.wprmenu_icon{color: #FFFFFF !important;}#mg-wprm-wrap {background-color: #2a68c4;}.cbp-spmenu-push-toright,.cbp-spmenu-push-toright .mm-slideout {left: 100% ;}.cbp-spmenu-push-toleft {left: -100% ;}#mg-wprm-wrap.cbp-spmenu-right,#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right.custom,#mg-wprm-wrap.cbp-spmenu-left.custom,.cbp-spmenu-vertical {width: 100%;max-width: px;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,div#mg-wprm-wrap ul li span.wprmenu_icon {color: #FFFFFF;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item:valid ~ a{color: #FFFFFF;}#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {background: #0753c4;color: #FFFFFF !important;}div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {color: #FFFFFF !important;}.wprmenu_bar .hamburger-inner,.wprmenu_bar .hamburger-inner::before,.wprmenu_bar .hamburger-inner::after {background: #FFFFFF;}.wprmenu_bar .hamburger:hover .hamburger-inner,.wprmenu_bar .hamburger:hover .hamburger-inner::before,.wprmenu_bar .hamburger:hover .hamburger-inner::after {background: #FFFFFF;}div.wprmenu_bar div.hamburger{padding-right: 6px !important;}#wprmenu_menu.left {width:100%;left: -100%;right: auto;}#wprmenu_menu.right {width:100%;right: -100%;left: auto;}html body div#wprmenu_bar {height : px;}#mg-wprm-wrap.cbp-spmenu-left,#mg-wprm-wrap.cbp-spmenu-right,#mg-widgetmenu-wrap.cbp-spmenu-widget-left,#mg-widgetmenu-wrap.cbp-spmenu-widget-right {top: px !important;}.wprmenu_bar .hamburger {float: left;}.wprmenu_bar #custom_menu_icon.hamburger {top: 0px;left: 0px;float: left !important;background-color: #CCCCCC;}.wpr_custom_menu #custom_menu_icon {display: block;}html { padding-top: 42px !important; }#wprmenu_bar,#mg-wprm-wrap { display: block; }div#wpadminbar { position: fixed; }}
+  </style>
+  <link rel="stylesheet" id="wpr_icons-css" href="/wp-content/plugins/wp-responsive-menu/inc/assets/icons/wpr-icons.css?ver=3.1.8" type="text/css" media="all">
+
+  <link rel="stylesheet" id="crwatchdog-google-fonts-css" href="//fonts.googleapis.com/css?family=Patua+One%7CRoboto%3A400%2C700%2C900&amp;ver=1.0.01" type="text/css" media="all">
+  <link rel="stylesheet" id="tablepress-default-css" href="/wp-content/plugins/tablepress/css/build/default.css?ver=2.4.4" type="text/css" media="all">
+  <style type="text/css">.site-title a { background: url(/wp-content/uploads/2018/02/CRwatchdog.png) no-repeat !important; }</style>
+
+  {% if site.googleAnalyticsId %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googleAnalyticsId }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.googleAnalyticsId }}', { anonymize_ip: true });
+  </script>
+  {% endif %}
+
+  <link rel="stylesheet" href="/css/11ty-overrides.css">
+</head>
+
+<body class="{% if bodyClass %}{{ bodyClass }}{% else %}home custom-header header-image full-width-content genesis-breadcrumbs-visible genesis-footer-widgets-visible{% endif %}">
+  <div class="site-container">
+    {% include "partials/header.njk" %}
+
+    {# IMPORTANT: homepage content controls its own .site-inner/main wrappers #}
+    {{ content | safe }}
+
+    {% include "partials/footer.njk" %}
+  </div>
+
+  <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+  <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+  <script type="text/javascript" src="/wp-content/plugins/wp-responsive-menu/assets/js/modernizr.custom.js?ver=3.1.8"></script>
+  <script type="text/javascript" src="/wp-content/plugins/wp-responsive-menu/assets/js/touchSwipe.js?ver=3.1.8"></script>
+  <script type="text/javascript">
+    var wprmenu = {"zooming":"no","from_width":"1023","push_width":"","menu_width":"100","parent_click":"yes","swipe":"yes","enable_overlay":"","wprmenuDemoId":""};
+  </script>
+  <script type="text/javascript" src="/wp-content/plugins/wp-responsive-menu/assets/js/wprmenu.js?ver=3.1.8"></script>
+  <script type="text/javascript" src="/wp-content/themes/crwatchdog/js/global.js?ver=1.0.0"></script>
+  <script type="text/javascript" src="/wp-content/themes/crwatchdog/js/stickyfill.js?ver=1.1.4"></script>
+</body>
+</html>

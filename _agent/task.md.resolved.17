@@ -1,0 +1,53 @@
+# Tasks
+
+- [x] Familiarize with codebase
+    - [x] List files
+    - [x] Read package.json
+    - [x] Check eleventy config
+    - [x] Inspect folder structure (content, templates)
+- [x] Start localhost server
+- [x] Visual inspection of the site
+- [x] Create Implementation Plan
+- [x] Execute Visual Refinements [/]
+    - [x] Fix Header Navigation wrapping
+    - [x] Fix Card Overlay legibility (Skipped)
+    - [x] Remove/Fix Vignette/Glow (Skipped)
+- [x] Fix Section Header alignment (Skipped)
+    - [x] Improve Footer styling
+- [x] Visual Verification
+- [x] Create Automated Publishing Script [/]
+    - [x] Create [publish_article_crwatchdog.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_crwatchdog.py)
+        - [x] Remove Author Bio
+        - [x] Update Button Styling (CRwatchdog Blue)
+        - [x] Output to `src/posts`
+        - [x] Images to `src/markdown_images`
+    - [x] Run script on `casper-mattresses-what-consumer-reports-thinks.md`
+    - [x] Re-run script to Fix Link Conversion (GeniusLinks)
+- [x] Verify Article on Localhost
+- [x] Publish 'Best Pro-Style Ranges' Article [/]
+    - [x] Run `publish_article_crwatchdog.py`
+    - [x] Verify Output (Images, GeniusLinks, Styling)
+- [x] Publish 'Best TVs' Article [/]
+    - [x] Run `publish_article_crwatchdog.py`
+    - [x] Verify Output (Images, GeniusLinks, Styling)
+- [x] Setup Redirect for TVs Article [/]
+    - [x] Research redirect method
+    - [x] Implement redirect
+    - [x] Verify redirect on localhost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

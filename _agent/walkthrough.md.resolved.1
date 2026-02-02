@@ -1,0 +1,32 @@
+# Visual Refinements Walkthrough
+
+I have successfully refined the Header and Footer of the CRwatchdog homepage as requested.
+
+## Visual Refinements
+-   **Header Navigation**: Fixed wrapping issues by enabling flexbox (`display: flex`) and adjusting padding/spacing (`gap: 15px`). The menu items now sit in a clean single row on larger screens and wrap gracefully if needed.
+-   **Footer**: Added significant padding (`60px` top/bottom) and implemented a CSS Grid layout (`display: grid`) to organize the widgets into columns, removing the previous empty feel.
+
+### Header
+The header menu items are now well-spaced and aligned.
+
+![Header Cleanup](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/site_header_1770047545699.png)
+
+### Footer
+The footer now has proper structure and spacing.
+
+![Footer Cleanup](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/site_footer_1770047559443.png)
+
+# Article Publishing Automation
+
+I have created an automated script [publish_article_crwatchdog.py](file:///Users/timothybhattacharyya/Documents/crwatchdog-static/article_processing/publish_article_crwatchdog.py) and successfully published the first article.
+
+## Functionality
+-   **Image Usage**: Automatically downloads high-res images from Amazon API and saves them to `src/markdown_images`.
+-   **Output**: Generates a clean markdown file in `src/posts` with correct frontmatter.
+-   **Styling**: Injects a custom blue "Check Price on Amazon" button that matches the CRwatchdog branding.
+
+## Verification
+The article **"Casper Mattresses: What Do the Experts at Consumer Reports Think?"** is now live on the local development server.
+
+### Published Article
+![Casper Article](/Users/timothybhattacharyya/.gemini/antigravity/brain/3b7ad599-58ad-42ae-a7a3-6f4cd3dec916/casper_post_preview_1770049598980.png)
