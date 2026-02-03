@@ -187,3 +187,47 @@ body {
   filter: brightness(0) invert(1);
   /* Make logo white if it's not transparent */
 }
+
+/* ============================================================
+   9) TABLE STYLING FIXES (Markdown Tables)
+   ============================================================ */
+/* Standard markdown tables often lack horizontal padding */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2.5rem;
+  font-size: 16px;
+  display: table; /* Reset if overflow-x wrapper is used */
+}
+
+th {
+  background-color: #f7f9fc;
+  color: #333;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #2a68c4 !important;
+  padding: 12px 15px !important;
+}
+
+td {
+  padding: 12px 15px !important;
+  border-bottom: 1px solid #eee !important;
+  vertical-align: top;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+/* Responsive wrapper for tables (optional but recommended) */
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  border-radius: 8px;
+}
+
+.table-wrapper table {
+  margin: 0;
+}
