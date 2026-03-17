@@ -13,6 +13,10 @@ tags:
 permalink: /best-pro-style-ranges-2025/
 canonical: https://crwatchdog.com/best-pro-style-ranges-2025/
 draft: false
+sub_category: "major-kitchen"
+brands_reviewed: "Monogram, KitchenAid, Electrolux"
+price_bracket: "$5,300 - $7,100"
+top_winner: "Monogram ZGP304NTSS"
 featured_image: "/markdown_images/OR30SCG4X1%2030%20Classic%20Series%20Freestanding%20Gas%20Range%20with%203.6%20cu.%20ft.%20Capacity%20AeroTech%20Convection%20Storage%20Drawer%20and%202%20R.jpg"
 featured_image_alt: "OR30SCG4X1 30 Classic Series Freestanding Gas Range with 3.6 cu. ft. Capacity AeroTech Convection Storage Drawer and 2 R hero image"
 ---

@@ -117,6 +117,17 @@ module.exports = function (eleventyConfig) {
     return sortNewestFirst(filtered);
   });
 
+  // Published Appliances (strictly enforces dates & drafts even on local for layout accuracy)
+  eleventyConfig.addCollection("publishedAppliances", (collectionApi) => {
+    const items = collectionApi.getFilteredByTag("appliances");
+    const filtered = items.filter((item) => {
+      if (isDraft(item)) return false;
+      if (isFutureDated(item)) return false;
+      return true;
+    });
+    return sortNewestFirst(filtered);
+  });
+
   return {
     dir: {
       input: "src",

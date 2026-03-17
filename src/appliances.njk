@@ -1,0 +1,275 @@
+---
+layout: base.njk
+title: "Appliances Reviews & Top Picks"
+permalink: /category/appliances/
+---
+
+<style>
+/* Hub CSS injected here for clean component encapsulation */
+.appliances-hub-header {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+.appliances-hub-header h1 {
+  font-size: 2.8rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+.appliances-hub-header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* Top Picks Hero */
+.hub-top-picks {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 4rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+.hub-top-picks h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+  color: #1a1a1a;
+  position: relative;
+}
+.hub-top-picks h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #2a68c4;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+.top-picks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+.top-pick-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.top-pick-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.1);
+}
+.top-pick-img-wrap {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+.top-pick-img-wrap img {
+  max-width: 100%;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.cr-score-badge {
+  display: inline-block;
+  background: #ffeb3b;
+  color: #333;
+  font-weight: 700;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  border: 1px solid #fdd835;
+}
+.top-pick-title {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.top-pick-title a {
+  color: #222;
+  text-decoration: none;
+}
+.top-pick-title a:hover {
+  color: #2a68c4;
+}
+.hook-summary {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
+}
+.cta-button {
+  display: inline-block;
+  background: #2a68c4;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  transition: background 0.2s;
+  margin-top: auto;
+}
+.cta-button:hover {
+  background: #1d4e9e;
+  color: #fff;
+}
+
+/* Category Rows */
+.hub-category-section {
+  margin-bottom: 4rem;
+}
+.hub-category-section h3 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+.hub-post-card {
+  background: #fff;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+.hub-post-card:hover {
+  border-color: #ccc;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+.hub-card-img a {
+  display: block;
+  height: 180px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+.hub-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Changed from cover so full appliance shows */
+  padding: 10px;
+  transition: transform 0.5s ease;
+}
+.hub-post-card:hover .hub-card-img img {
+  transform: scale(1.05);
+}
+.hub-card-content {
+  padding: 1.2rem;
+}
+.hub-card-content h4 {
+  font-size: 1.15rem;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
+  line-height: 1.3;
+}
+.hub-card-content h4 a {
+  color: #222;
+  text-decoration: none;
+}
+.hub-card-content h4 a:hover {
+  color: #2a68c4;
+}
+.hub-card-meta {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+.hub-card-meta li {
+  margin-bottom: 4px;
+}
+.hub-card-meta li strong {
+  color: #333;
+}
+</style>
+
+<div class="appliances-hub-header">
+  <h1>Appliances Hub</h1>
+  <p>Find the best-tested kitchen and home appliances for your lifestyle and budget.</p>
+</div>
+
+{# --- TOP PICKS HERO SECTION --- #}
+<section class="hub-top-picks">
+  <h2>Consumer Reports' Top Picks</h2>
+  <div class="top-picks-grid">
+    {% for post in collections.publishedAppliances %}
+      {% if post.data.top_pick %}
+        <div class="top-pick-card">
+          <div class="top-pick-img-wrap">
+            <a href="{{ post.url }}">
+              <img src="{{ post.data.featured_image }}" alt="{{ post.data.featured_image_alt }}">
+            </a>
+          </div>
+          {% if post.data.cr_score %}
+            <div class="cr-score-badge">CR Score: {{ post.data.cr_score }}</div>
+          {% endif %}
+          <div class="top-pick-title">
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+          </div>
+          {% if post.data.hook_summary %}
+            <p class="hook-summary">{{ post.data.hook_summary }}</p>
+          {% endif %}
+          <a href="{{ post.url }}" class="cta-button">Read Review</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+{# --- CATEGORY FEED / HUB LAYOUT --- #}
+{% set subcats = [
+  { id: 'major-kitchen', label: 'Major Kitchen (Fridges, Dishwashers, Ranges)' },
+  { id: 'laundry', label: 'Laundry (Washers, Dryers)' },
+  { id: 'small-appliances', label: 'Small Home Appliances (Air Purifiers, Vacuums, Heaters)' }
+] %}
+
+{% for cat in subcats %}
+  <section class="hub-category-section">
+    <h3>{{ cat.label }}</h3>
+    <div class="hub-grid">
+      {% for post in collections.publishedAppliances | reverse %}
+        {% if post.data.sub_category == cat.id %}
+          <article class="hub-post-card">
+            <div class="hub-card-img">
+              <a href="{{ post.url }}">
+                <img src="{{ post.data.featured_image }}" alt="{{ post.data.featured_image_alt }}">
+              </a>
+            </div>
+            <div class="hub-card-content">
+              <h4><a href="{{ post.url }}">{{ post.data.title }}</a></h4>
+              <ul class="hub-card-meta">
+                {% if post.data.brands_reviewed %}
+                  <li><strong>Brands:</strong> {{ post.data.brands_reviewed }}</li>
+                {% endif %}
+                {% if post.data.price_bracket %}
+                  <li><strong>Price:</strong> {{ post.data.price_bracket }}</li>
+                {% endif %}
+                {% if post.data.top_winner %}
+                  <li><strong>Top Winner:</strong> {{ post.data.top_winner }}</li>
+                {% endif %}
+              </ul>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}

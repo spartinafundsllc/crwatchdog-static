@@ -5,7 +5,11 @@ date: 2025-02-02
 updated: 2026-02-02 
 author: Elias Nolan
 category: "Appliances"
-tags: ["Dishwashers", "Consumer Reports", "Kitchen Appliances"]
+tags: ["appliances", "Dishwashers", "Consumer Reports", "Kitchen Appliances"]
+sub_category: "major-kitchen"
+brands_reviewed: "Thermador, Miele, Bosch, Cove"
+price_bracket: "$1,500+"
+top_winner: "Thermador Star Sapphire"
 layout: post.njk
 permalink: "/these-are-consumer-reports-picks-for-the-best-high-end-dishwashers/"
 featured_image: "/markdown_images/Benchmark%20Series%2024%20in.%20Stainless%20Steel%20Top%20Control%20Tall%20Tub%20Pocket%20Handle%20Dishwasher%20with%20Stainless%20Steel%20Tub%2C%2038%20dBA.jpg"
