@@ -2701,6 +2701,46 @@ Media Queries
 		top: 17%;
 	}
 
+}
 
+/* Fix Card Heights and Image Sizes for Uniformity */
+.three-column-post .widget-wrap, 
+.two-column-post .widget-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
 
+.two-column-post .entry, 
+.three-column-post .entry {
+    float: none !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.two-column-post .entry .aligncenter, 
+.three-column-post .entry .aligncenter,
+.three-column-post .entry .alignnone,
+.two-column-post .entry .alignnone {
+    display: block;
+    width: 100%;
+}
+
+.two-column-post .entry-image, 
+.three-column-post .entry-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.two-column-post .entry-header, 
+.three-column-post .entry-header {
+    flex-grow: 0;
+}
+
+.two-column-post .entry-content, 
+.three-column-post .entry-content {
+    flex-grow: 1;
 }

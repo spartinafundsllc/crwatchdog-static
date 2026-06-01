@@ -238,7 +238,7 @@ def download_image_as_jpg(image_url: str, out_file: Path) -> None:
 
 
 def url_to_safe_relpath(filename: str) -> str:
-    return "/content/markdown_images/" + quote(filename)
+    return "/markdown_images/" + quote(filename)
 
 
 def build_check_price_block(url: str, label: str = "Check Price / Configs") -> str:
@@ -352,7 +352,7 @@ def main() -> int:
         print("No Amazon URLs found in the markdown.", file=os.sys.stderr)
         return 1
 
-    images_dir = Path("content") / "markdown_images"
+    images_dir = Path("src") / "markdown_images"
     images_dir.mkdir(parents=True, exist_ok=True)
 
     driver = build_chrome(headed=args.headed)
