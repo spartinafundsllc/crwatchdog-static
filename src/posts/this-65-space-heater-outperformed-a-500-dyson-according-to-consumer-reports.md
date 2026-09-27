@@ -32,7 +32,7 @@ The **Dyson Purifier Hot+Cool HP1** is sleek, smart, and often priced around **$
 
 Both heaters are **Consumer Reports Recommended** and labeled a **Green Choice**, but the Lasko actually earned a slightly higher overall score: **84 vs. Dyson’s 83**. If your main goal is reliable, efficient heat for winter, the budget heater may be the smarter buy.
 
-## [Lasko Artisan Series CX16550: Budget Heater, Top-Tier Performance](https://geni.us/Kh86b)
+## [Lasko Artisan Series CX16550: Budget Heater, Top-Tier Performance](https://www.amazon.com/dp/B0D3FJXKW3?tag=crwatchdog-20)
 
 The **Lasko Artisan Series CX16550** is a compact ceramic space heater that focuses on the basics: fast heat, good safety features, and solid build quality.
 
@@ -46,9 +46,9 @@ The **Lasko Artisan Series CX16550** is a compact ceramic space heater that focu
 *   **Portability:** No built-in handle; designed for floor or desk use
 *   **Warranty:** 3 years
 
-In Consumer Reports testing, the Lasko delivers strong, consistent heating performance at its 1500-watt output. It’s light, easy to move between rooms, and includes key safety features like a tip-over switch and overheat protection. It doesn’t have app control, air purification, or voice commands—but that’s exactly why it’s such a standout value: almost all of its cost goes into doing one thing well: [**heating your space**](https://geni.us/Kh86b).
+In Consumer Reports testing, the Lasko delivers strong, consistent heating performance at its 1500-watt output. It’s light, easy to move between rooms, and includes key safety features like a tip-over switch and overheat protection. It doesn’t have app control, air purification, or voice commands—but that’s exactly why it’s such a standout value: almost all of its cost goes into doing one thing well: [**heating your space**](https://www.amazon.com/dp/B0D3FJXKW3?tag=crwatchdog-20).
 
-## Dyson Purifier Hot+Cool HP1: [Premium Design, Premium Price](https://geni.us/4cKw)
+## Dyson Purifier Hot+Cool HP1: [Premium Design, Premium Price](https://www.amazon.com/dp/B0F468V6BW?tag=crwatchdog-20)
 
 The **Dyson Purifier Hot+Cool HP1** is much more than a simple space heater. It’s a tall, bladeless unit that functions as a **convection heater, fan, and air purifier** in one.
 
@@ -89,14 +89,14 @@ Here’s a quick comparison of the key specifications and features from Consumer
 
 ## Which Space Heater Should You Buy?
 
-### Choose the [Lasko Artisan Series](https://geni.us/Kh86b) CX16550 if:
+### Choose the [Lasko Artisan Series](https://www.amazon.com/dp/B0D3FJXKW3?tag=crwatchdog-20) CX16550 if:
 
 *   You primarily want an **affordable, reliable space heater** for winter.
 *   You care more about **performance and safety** than smart features.
 *   You like the idea of a heater that **scored slightly higher** than a premium Dyson in Consumer Reports testing.
 *   You’re heating a **single room or office** and don’t need built-in air purification.
 
-### Choose the [Dyson](https://geni.us/4cKw) Purifier Hot+Cool HP1 if:
+### Choose the [Dyson](https://www.amazon.com/dp/B0F468V6BW?tag=crwatchdog-20) Purifier Hot+Cool HP1 if:
 
 *   You want an **all-in-one device** that heats, cools, and purifies the air.
 *   You value **smart-home integration**, app control, and scheduling.

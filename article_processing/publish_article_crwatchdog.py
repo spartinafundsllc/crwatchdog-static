@@ -10,10 +10,15 @@ from urllib.parse import urlparse, quote
 from amazon_paapi import AmazonApi
 from dotenv import load_dotenv
 
-#this program is used to publish articles to the crwatchdog website.  It takes a markdown file, then 
-#it uses the amazon PA API to get the images and save them to a folder.  it inserts images.
-#then it converts any amazon links to geniuslinks.
-#then it uploads the article to the website by placing it the src folder
+# This program is used to publish articles to the CRWatchdog website.
+# It takes a markdown file, fetches product images via Amazon Creators API / catalog,
+# saves them to src/markdown_images/, canonicalizes all Amazon links to direct
+# affiliate URLs (tag=crwatchdog-20) supported by Amazon OneLink for international redirection,
+# inserts product image blocks and "Check Price" buttons, and outputs to src/posts/.
+#
+# NOTE: Legacy PAAPI v5 is deprecated by Amazon; future catalog lookups must use
+# the new Amazon Creators API.
+# Geniuslink has been retired and is no longer used.
 
 # Suppress deprecation warnings from amazon_paapi
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
@@ -21,18 +26,6 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 # Load environment variables from .env file (if present)
 load_dotenv()
 
-# Import GeniusLink logic from existing script
-try:
-    import amazon_geniuslinks
-except ImportError:
-    # If not in the same directory, try adding the directory to path
-    sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-    try:
-        import amazon_geniuslinks
-    except ImportError:
-        # Fallback if amazon_geniuslinks.py is missing (we might need to create it or mock it)
-        print("Warning: amazon_geniuslinks module not found. GeniusLink conversion might fail.")
-        amazon_geniuslinks = None
 
 # --- Constants & Helpers ---
 
@@ -105,81 +98,63 @@ def build_check_price_block(url):
 
 # --- Main Logic ---
 
-def process_genius_links(md_content, input_path):
+def canonicalize_amazon_links(md_content, input_path):
     """
-    Uses the logic from amazon_geniuslinks.py to convert links.
+    Directly canonicalizes all Amazon product and search URLs to direct Amazon
+    affiliate URLs using the active AMAZON_TAG. International geo-redirection is
+    handled automatically by Amazon OneLink without third-party redirects.
     Returns: (updated_markdown, mapping)
-    mapping: dict of original_amazon_url -> new_genius_url
+    mapping: dict of original_url -> canonical_amazon_url
     """
-    print(">>> Phase 1: Converting to GeniusLinks...")
-    
+    print(">>> Phase 2: Canonicalizing Amazon URLs to direct affiliate links (OneLink)...")
+    tag = get_env_var("AMAZON_TAG")
     mapping = {}
-    
-    if not amazon_geniuslinks:
-        print("Skipping GeniusLink conversion (module not found).")
-        return md_content, mapping
 
-    # Initialize GeniusLink client
-    api_key = get_env_var("GENIUSLINK_API_KEY")
-    api_secret = get_env_var("GENIUSLINK_API_SECRET")
-    group_id = int(get_env_var("GENIUSLINK_GROUP_ID"))
-    client = amazon_geniuslinks.GeniuslinkClient(api_key, api_secret, group_id)
-    
-    # Load cache if exists
-    cache = {}
-    cache_path = Path(".geniuslink_cache.json")
-    if cache_path.exists():
-        cache = amazon_geniuslinks.load_cache(cache_path)
-    
-    # Find URLs
-    spans = list(amazon_geniuslinks.iter_urls_in_markdown(md_content))
-    
-    # Deduplicate spans (handle overlap between Inline and Bare regexes)
-    # Filter out spans that are contained within or identical to others?
-    # Actually, BARE matches the exact same range as INLINE group 3 usually.
-    # Simple deduplication by (start, end)
-    unique_spans = {}
-    for start, end, url in spans:
-        unique_spans[(start, end)] = url
-    
-    spans = [(start, end, url) for (start, end), url in unique_spans.items()]
-    
-    uniq_urls = {}
-    for _, _, u in spans:
-        uniq_urls[amazon_geniuslinks.strip_trailing_punct(u)] = None
-        
-    amazon_urls = [u for u in uniq_urls.keys() 
-                  if amazon_geniuslinks.is_amazon_url(u) 
-                  and not amazon_geniuslinks.is_already_genius(u)]
-    
-    print(f"    Found {len(amazon_urls)} Amazon URLs to convert.")
-    
-    for u in amazon_urls:
-        if u in cache:
-            mapping[u] = cache[u]
-            continue
-        try:
-            print(f"    Converting: {u[:60]}...")
-            short = client.create_shorturl(u)
-            mapping[u] = short
-            cache[u] = short
-            time.sleep(0.1) # Rate limit politeness
-        except Exception as e:
-            print(f"    WARNING: Failed to convert {u}: {e}")
-            mapping[u] = u
-            
-    # Apply replacements
-    reps = []
-    for start, end, raw_url in spans:
-        old = amazon_geniuslinks.strip_trailing_punct(raw_url)
-        new = mapping.get(old)
-        if not new:
-            continue
-        reps.append(amazon_geniuslinks.Replacement(start, end, old, new))
-        
-    updated_md = amazon_geniuslinks.apply_replacements(md_content, reps)
-    amazon_geniuslinks.save_cache(cache_path, cache)
-    
+    AMAZON_FIND_RE = re.compile(r'https?://(?:[a-zA-Z0-9-]+\.)?amazon\.[a-z\.]+(?:/[^\s\)\"\'>]*)?', re.IGNORECASE)
+
+    def clean_punct(u):
+        return u.rstrip(".,;:!\"'“”’)\\]")
+
+    def canonicalize_single(raw_u):
+        u = clean_punct(raw_u)
+        asin = extract_asin(u)
+        if asin:
+            return f"https://www.amazon.com/dp/{asin}?tag={tag}"
+
+        parsed = urlparse(u)
+        if parsed.path.startswith("/s") or "k=" in u or "field-keywords=" in u or "keywords=" in u:
+            from urllib.parse import parse_qs, unquote, quote_plus
+            qs = parse_qs(parsed.query)
+            kw = qs.get("k", qs.get("field-keywords", qs.get("keywords", [])))
+            if kw and kw[0]:
+                k_val = unquote(kw[0]).strip()
+                return f"https://www.amazon.com/s?k={quote_plus(k_val)}&tag={tag}"
+            return f"https://www.amazon.com/s?tag={tag}"
+
+        if "?" in u:
+            from urllib.parse import parse_qs, quote_plus
+            qs = parse_qs(parsed.query)
+            qs["tag"] = [tag]
+            qs.pop("geniuslink", None)
+            qs.pop("th", None)
+            qs.pop("psc", None)
+            clean_query = "&".join(f"{k}={quote_plus(v)}" for k, vals in qs.items() for v in vals)
+            return f"https://www.amazon.com{parsed.path}?{clean_query}"
+        return f"{u}?tag={tag}"
+
+    matches = AMAZON_FIND_RE.findall(md_content)
+    for raw in matches:
+        clean = clean_punct(raw)
+        if clean not in mapping:
+            canonical = canonicalize_single(clean)
+            mapping[clean] = canonical
+            mapping[raw] = canonical + raw[len(clean):]
+
+    updated_md = md_content
+    for old_url in sorted(mapping.keys(), key=lambda k: len(k), reverse=True):
+        updated_md = updated_md.replace(old_url, mapping[old_url])
+
+    print(f"    Canonicalized {len(mapping)} Amazon URLs with tag={tag}.")
     return updated_md, mapping
 
 def fetch_images_only(amazon_urls):
@@ -405,20 +380,17 @@ def main():
     
     # 0. Find Amazon URLs (Original)
     amazon_urls = []
-    if amazon_geniuslinks:
-        spans = list(amazon_geniuslinks.iter_urls_in_markdown(original_md))
-        for _, _, u in spans:
-            clean_u = amazon_geniuslinks.strip_trailing_punct(u)
-            if amazon_geniuslinks.is_amazon_url(clean_u) and not amazon_geniuslinks.is_already_genius(clean_u):
-                amazon_urls.append(clean_u)
-    else:
-        amazon_urls = re.findall(r"https?://(?:www\.)?amazon\.[a-z\.]+/[\w\-/]+", original_md)
+    raw_amazon_matches = re.findall(r"https?://(?:[a-zA-Z0-9-]+\.)?amazon\.[a-z\.]+/[\w\-/]+", original_md)
+    for u in raw_amazon_matches:
+        clean_u = u.rstrip(".,;:!\"'“”’)\\]")
+        if clean_u not in amazon_urls:
+            amazon_urls.append(clean_u)
             
     # 1. Fetch Images (Using Original URLs)
     products_data = fetch_images_only(amazon_urls)
     
-    # 2. Convert Links to Genius
-    mid_md, mapping = process_genius_links(original_md, input_path)
+    # 2. Canonicalize Amazon URLs to Direct Affiliate Links
+    mid_md, mapping = canonicalize_amazon_links(original_md, input_path)
     
     # 3. Insert Images (Using Mapping to find new locations)
     final_md = insert_images(mid_md, products_data, mapping)
@@ -430,7 +402,7 @@ def main():
         url = match.group(2)
         return f"[{bold_text}]({url})"
     
-    anchor_pattern = re.compile(r"(\*\*.*?\*\*)\s*[—:]\s*(https://geni\.us/[a-zA-Z0-9]+)")
+    anchor_pattern = re.compile(r"(\*\*.*?\*\*)\s*[—:]\s*(https?://(?:www\.)?amazon\.[a-z\.]+[^\s\)]+)")
     final_md = anchor_pattern.sub(anchor_repl, final_md)
 
     # 5. Output

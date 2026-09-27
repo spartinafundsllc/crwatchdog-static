@@ -23,7 +23,7 @@ featured_image_alt: "Shark StainStriker Portable Carpet, Upholstery & Area Rug C
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/YjQ9X"
+    href="https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -59,7 +59,7 @@ Here is the data-driven breakdown.
 
 ---
 
-## 1. [Shark StainStriker PX201: The High Performer](https://geni.us/YjQ9X)
+## 1. [Shark StainStriker PX201: The High Performer](https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20)
 
 
 <p>
@@ -71,7 +71,7 @@ Here is the data-driven breakdown.
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/YjQ9X"
+    href="https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -97,7 +97,7 @@ Here is the data-driven breakdown.
 
 
 
-If you want a machine that feels a bit more robust but won't take up half your utility closet, the **[Shark StainStriker PX201](https://geni.us/YjQ9X)** is a fantastic choice. In Consumer Reports' testing, it stood out as a high performer among portable cleaners. In separate independent testing, it was highly praised for its ability to tackle tough, stubborn stains like coffee, cola, and ketchup with minimal passes.
+If you want a machine that feels a bit more robust but won't take up half your utility closet, the **[Shark StainStriker PX201](https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20)** is a fantastic choice. In Consumer Reports' testing, it stood out as a high performer among portable cleaners. In separate independent testing, it was highly praised for its ability to tackle tough, stubborn stains like coffee, cola, and ketchup with minimal passes.
 
 ### The Lab Data
 * **Cleaning (3/5):** It earned a solid "Good" rating for removing tough, ground-in red clay from test carpets.
@@ -110,11 +110,11 @@ The Shark gives you a bit more reach and capacity than ultra-compact models.
 * **Weight & Capacity:** It weighs 9 pounds empty and 12 pounds with a full tank. That 3-pound solution tank gives you about 11 square feet of cleaning coverage before you need to stop and refill. 
 * **Attachments:** It features a generous 57-inch hose and comes with three attachments out of the box: a crevice tool, a dedicated pet tool, and a hose rinse attachment to keep the machine itself clean. 
 
-**The Watchdog Take:** The **[Shark StainStriker PX201](https://geni.us/YjQ9X)** is the perfect middle-ground machine. It holds enough solution to tackle a large pet accident or a set of carpeted stairs without forcing you to run back to the sink every five minutes. 
+**The Watchdog Take:** The **[Shark StainStriker PX201](https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20)** is the perfect middle-ground machine. It holds enough solution to tackle a large pet accident or a set of carpeted stairs without forcing you to run back to the sink every five minutes. 
 
 ---
 
-## 2. [Dirt Devil Compact Portable Spot Cleaner (FD13000): The Budget Pick](https://geni.us/lt8R)
+## 2. [Dirt Devil Compact Portable Spot Cleaner (FD13000): The Budget Pick](https://www.amazon.com/dp/B0BZDT4LSX?tag=crwatchdog-20)
 
 
 <p>
@@ -126,7 +126,7 @@ The Shark gives you a bit more reach and capacity than ultra-compact models.
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/lt8R"
+    href="https://www.amazon.com/dp/B0BZDT4LSX?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -152,7 +152,7 @@ The Shark gives you a bit more reach and capacity than ultra-compact models.
 
 
 
-If you just need a tiny, lightweight machine for occasional "oops" moments, look no further. The **[Dirt Devil Compact Portable Spot Cleaner](https://geni.us/lt8R)** has recently been spotted on sale for as low as $50 on Amazon. With spring sales kicking in, it is one of the absolute best bargains on the market. 
+If you just need a tiny, lightweight machine for occasional "oops" moments, look no further. The **[Dirt Devil Compact Portable Spot Cleaner](https://www.amazon.com/dp/B0BZDT4LSX?tag=crwatchdog-20)** has recently been spotted on sale for as low as $50 on Amazon. With spring sales kicking in, it is one of the absolute best bargains on the market. 
 
 ### The Lab Data
 Despite its low price, this Dirt Devil (#4 out of 9 tested portable cleaners) held its own in the lab:
@@ -166,7 +166,7 @@ This machine is built entirely around being lightweight and easy to grab.
 * **Weight & Capacity:** It is incredibly light, weighing just 8 pounds empty and 9 pounds full. Because the tank only holds 2 pounds of solution, your coverage area is limited to about 5 square feet per tank. 
 * **Attachments:** It still comes with 3 handy attachments, including a pet tool and a hose rinse tool. 
 
-**The Watchdog Take:** The small tank is the trade-off for the extreme portability. If you are cleaning a whole room, this is the wrong tool. But if you just need to spot-clean a coffee spill or clean up after a new puppy, the **[Dirt Devil Compact Portable Spot Cleaner](https://geni.us/lt8R)** is a highly effective, space-saving bargain. 
+**The Watchdog Take:** The small tank is the trade-off for the extreme portability. If you are cleaning a whole room, this is the wrong tool. But if you just need to spot-clean a coffee spill or clean up after a new puppy, the **[Dirt Devil Compact Portable Spot Cleaner](https://www.amazon.com/dp/B0BZDT4LSX?tag=crwatchdog-20)** is a highly effective, space-saving bargain. 
 
 ---
 
@@ -174,5 +174,5 @@ This machine is built entirely around being lightweight and easy to grab.
 
 When buying a portable spot cleaner, you are always balancing capacity against weight. 
 
-* **Buy the [Shark StainStriker PX201](https://geni.us/YjQ9X)** if you have kids or pets and frequently need to clean up larger messes. That 11-square-foot coverage area will save you a lot of trips to the sink. 
-* **Buy the [Dirt Devil Compact](https://geni.us/lt8R)** if you live in a smaller space, want to save money, and only need a cleaner for the occasional dropped plate of food or spilled glass of wine.
+* **Buy the [Shark StainStriker PX201](https://www.amazon.com/dp/B0C9H1ZRH4?tag=crwatchdog-20)** if you have kids or pets and frequently need to clean up larger messes. That 11-square-foot coverage area will save you a lot of trips to the sink. 
+* **Buy the [Dirt Devil Compact](https://www.amazon.com/dp/B0BZDT4LSX?tag=crwatchdog-20)** if you live in a smaller space, want to save money, and only need a cleaner for the occasional dropped plate of food or spilled glass of wine.

@@ -19,7 +19,7 @@ featured_image_alt: "Midea 8,000 BTU Smart Inverter Window Air Conditioner with 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ueQBb"
+    href="https://www.amazon.com/dp/B0DXDV6TXY?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -58,7 +58,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 ## Part 1: Small Room Champions (5,000 to 6,500 BTU/hr)
 *Best for spaces measuring 100 to 250 square feet, like bedrooms, guest rooms, nurseries, or small home offices.*
 
-### 1. [LG LW6023IVSM](https://geni.us/kfHml)
+### 1. [LG LW6023IVSM](https://www.amazon.com/dp/B0CL1DJPZ8?tag=crwatchdog-20)
 
 
 <p>
@@ -70,7 +70,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/kfHml"
+    href="https://www.amazon.com/dp/B0CL1DJPZ8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -100,7 +100,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 91/100 | Owner Satisfaction: 63/100 | Comfort: 5/5 | Low Noise: 5/5 | High Noise: 4/5
 *   **The Watchdog Take:** This is an elite inverter-driven unit designed for whisper-quiet environments. It completely sweeps the climate comfort and low-speed noise categories with perfect 5/5 scores, making it arguably the single best choice on the market for a primary bedroom where sleep quality is paramount. Furthermore, LG boasts an exceptional 91/100 brand reliability rating based on real-world owner data, meaning it is built to last for summers to come.
 
-### 2. [Midea MAW06V1UWT](https://geni.us/wD0nG)
+### 2. [Midea MAW06V1UWT](https://www.amazon.com/dp/B0G34M7C1M?tag=crwatchdog-20)
 
 
 <p>
@@ -112,7 +112,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/wD0nG"
+    href="https://www.amazon.com/dp/B0G34M7C1M?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -142,7 +142,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 93/100 | Owner Satisfaction: 90/100 | Comfort: 4/5 | Low Noise: 5/5 | High Noise: 5/5
 *   **The Watchdog Take:** While its overall score sits slightly below the leading LG, Midea pulls off something truly incredible here: a perfect 5/5 for indoor noise on *both* low and high settings. If you absolutely despise the aggressive, roaring rush of an AC running at full blast on a hot day, this unit handles high speeds better than any other small model tested. Backed by an industry-leading 93/100 brand reliability score and a stellar 90/100 owner satisfaction rating, consumers genuinely love living with this machine.
 
-### 3. [Soleus Air WS3-06E-201](https://geni.us/aVwe)
+### 3. [Soleus Air WS3-06E-201](https://www.amazon.com/dp/B0C6YQ3NV5?tag=crwatchdog-20)
 
 
 <p>
@@ -154,7 +154,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/aVwe"
+    href="https://www.amazon.com/dp/B0C6YQ3NV5?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -184,7 +184,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: Data Unavailable | Owner Satisfaction: Data Unavailable | Comfort: 4/5 | Low Noise: 5/5 | High Noise: 4/5
 *   **The Watchdog Take:** This clever model brings the innovative U-shaped design down to a smaller chassis size. The unique layout allows your physical glass window pane to act as a sound barrier, insulating your room from the noisy compressor sitting outside. It runs beautifully quiet on its low setting (5/5) and delivers strong comfort control. The only notable drawback is that because it's a newer entry to the market, there isn't quite enough historical survey data yet to score its long-term brand reliability.
 
-### 4. [Black+Decker BD06WT6](https://geni.us/0OjAxi)
+### 4. [Black+Decker BD06WT6](https://www.amazon.com/dp/B08T9K3KL8?tag=crwatchdog-20)
 
 
 <p>
@@ -196,7 +196,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/0OjAxi"
+    href="https://www.amazon.com/dp/B08T9K3KL8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -231,7 +231,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 ## Part 2: Midsized Room Heavyweights (7,000 to 8,500 BTU/hr)
 *Best for areas measuring 250 to 350 square feet, including large master suites, studio apartments, open-concept kitchens, or small living rooms.*
 
-### 5. [LG LW8024IVSM](https://geni.us/4dApVr)
+### 5. [LG LW8024IVSM](https://www.amazon.com/dp/B0B4PPM8W9?tag=crwatchdog-20)
 
 
 <p>
@@ -243,7 +243,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/4dApVr"
+    href="https://www.amazon.com/dp/B0B4PPM8W9?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -273,7 +273,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 91/100 | Owner Satisfaction: 63/100 | Comfort: 5/5 | Low Noise: 5/5 | High Noise: 3/5
 *   **The Watchdog Take:** Sitting proudly at the very top of the mid-sized category, this model is the highest-scoring unit on the entire chart and carries a "CR Smart Buy" badge for its size class. It delivers flawless, peerless 5/5 marks for day-to-day temperature precision and silent low-speed operation. The only real trade-off to consider is its performance on high speed, where the indoor volume drops to a strictly average 3/5 rating.
 
-### 6. [Midea MAW08V1YWT-S](https://geni.us/ueQBb)
+### 6. [Midea MAW08V1YWT-S](https://www.amazon.com/dp/B0DXDV6TXY?tag=crwatchdog-20)
 
 
 <p>
@@ -285,7 +285,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ueQBb"
+    href="https://www.amazon.com/dp/B0DXDV6TXY?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -315,7 +315,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 93/100 | Owner Satisfaction: 90/100 | Comfort: 5/5 | Low Noise: 5/5 | High Noise: 4/5
 *   **The Watchdog Take:** If you are looking for pure performance-per-dollar, stop reading right here. Priced at an unbelievable flat rate of $250, this unit is a total steal. It matches the top-tier 5/5 comfort and 5/5 low-noise marks of units that cost twice as much, all while carrying Midea's powerhouse 93/100 brand reliability and 90/100 owner satisfaction scores. It is an unmatched value proposition for a mid-sized space.
 
-### 7. [Frigidaire Gallery GHWQ085WD1](https://geni.us/4KXNOtx)
+### 7. [Frigidaire Gallery GHWQ085WD1](https://www.amazon.com/dp/B0DFZS2JNG?tag=crwatchdog-20)
 
 
 <p>
@@ -327,7 +327,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/4KXNOtx"
+    href="https://www.amazon.com/dp/B0DFZS2JNG?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -357,7 +357,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 89/100 | Owner Satisfaction: 44/100 | Comfort: 5/5 | Low Noise: 5/5 | High Noise: 5/5
 *   **The Watchdog Take:** This high-end inverter option delivers immaculate engineering, standing out as one of the few models to pull off flawless 5/5 marks across all three core laboratory categories: climate comfort, low-speed noise, and high-speed noise. However, be a diligent shopper: the chart notes a active recall alert on this line, so make sure to verify with your retailer that you are receiving an updated, post-recall unit. Additionally, historical owner satisfaction sits lower at 44/100, meaning some buyers felt the premium performance didn't entirely justify the steep $559 price tag.
 
-### 8. [Midea U-Shaped MAW08V1QWT](https://geni.us/YP64)
+### 8. [Midea U-Shaped MAW08V1QWT](https://www.amazon.com/dp/B0G34MR64D?tag=crwatchdog-20)
 
 
 <p>
@@ -369,7 +369,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/YP64"
+    href="https://www.amazon.com/dp/B0G34MR64D?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -399,7 +399,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 *   **The Blueprint:** Brand Reliability: 93/100 | Owner Satisfaction: 90/100 | Comfort: 4/5 | Low Noise: 5/5 | High Noise: 4/5
 *   **The Watchdog Take:** Another celebrated "CR Smart Buy," this iconic U-shaped inverter unit allows you to freely raise and lower your window sash even after the unit is securely bolted down. It operates beautifully on its low setting and holds a great 4/5 rating on high. Like the Frigidaire above, it features a recall notice flag on this specific testing chart, so be certain to confirm with the seller that you are purchasing a fresh, manufacturer-cleared batch. 
 
-### 9. [Frigidaire Gallery GHWW085TE1](https://geni.us/nqqY)
+### 9. [Frigidaire Gallery GHWW085TE1](https://www.amazon.com/dp/B0DG11M19P?tag=crwatchdog-20)
 
 
 <p>
@@ -411,7 +411,7 @@ Here is the ultimate, no-fluff breakdown of all 9 top-tier, CR-Recommended windo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/nqqY"
+    href="https://www.amazon.com/dp/B0DG11M19P?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

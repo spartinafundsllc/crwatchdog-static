@@ -22,7 +22,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
 ---
 
 ## 1. Best Compact Laser Printer
-### [Canon imageCLASS LBP247dw](https://geni.us/ElF2)
+### [Canon imageCLASS LBP247dw](https://www.amazon.com/dp/B0DGZ5XDWZ?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -32,7 +32,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/ElF2" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0DGZ5XDWZ?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 *   **Overall Score:** 82
@@ -42,7 +42,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
 *   **The Alternative:** If you want a higher paper capacity, the **Brother HL-L6310DW** is a solid alternative. It performs nearly as well, and CR surveys show that Brother single-function monochrome printers actually pull slightly higher owner satisfaction scores than Canon.
 
 ## 2. Best Multifunction B&W Laser Printer
-### [Brother MFC-L5915DW](https://geni.us/oSoyW)
+### [Brother MFC-L5915DW](https://www.amazon.com/dp/B0CRZGP525?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -52,7 +52,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/oSoyW" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0CRZGP525?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 *   **Overall Score:** 81
@@ -61,7 +61,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
 *   **The Watchdog Take:** Most people do 99% of their printing in black and white. If you don't mind going to an office supply store for that rare color print, this monochrome all-in-one is an absolute powerhouse. It gets top marks for speed and excellent text quality. Best of all, it gives you a built-in scanner, copier, and a highly convenient auto-document feeder. Brother's all-in-one monochrome machines also boast excellent marks for both predicted reliability and owner satisfaction, making this a safe bet for a long-term investment.
 
 ## 3. Best Single-Function Color Laser Printer
-### [Brother HL-L3295CDW](https://geni.us/5ItohBQ)
+### [Brother HL-L3295CDW](https://www.amazon.com/s?k=Brother+HL-L3295CDW&tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -71,7 +71,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/5ItohBQ" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/s?k=Brother+HL-L3295CDW&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 *   **Overall Score:** 79
@@ -80,7 +80,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
 *   **The Watchdog Take:** Color laser technology has historically been incredibly expensive, but this compact Brother unit brings it down to a highly accessible price point. The text quality is exemplary, and it pulls "very good" ratings for both speed and graphics. We love the practical design: it features a 250-sheet main tray and a 30-sheet secondary input tray, and—crucially—it allows you to keep printing in black and white even if the color toner runs dry. 
 
 ## 4. Best Do-It-All Color Laser Printer
-### [Brother MFC-L3765CDW](https://geni.us/9DAq)
+### [Brother MFC-L3765CDW](https://www.amazon.com/dp/B0CFCLDWZZ?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -90,7 +90,7 @@ While they do have a larger footprint and struggle with high-resolution photo pr
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/9DAq" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0CFCLDWZZ?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 *   **Overall Score:** 72

@@ -27,7 +27,7 @@ featured_image_alt: "Bosch SHX78CM5N 800 Series 24 Inch Smart Built-In Bar Handl
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ix5c"
+    href="https://www.amazon.com/dp/B0BT5MT8KV?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -91,7 +91,7 @@ designs.
 
 If you are shopping for laundry appliances, you can compare top rated LG
 washers on Amazon here:
-https://geni.us/Rliceo9
+https://www.amazon.com/s?k=LG+front+load+washer&tag=crwatchdog-20
 
 Monitor Nerds also tracks appliance performance trends and buying
 guidance for tech driven homes:
@@ -115,7 +115,7 @@ consistently score among the best in predicted reliability.
 Bosch 300 and 800 Series dishwashers are particularly popular with
 homeowners who want a quiet kitchen and fewer repairs.
 
-You can view current Bosch dishwasher pricing on Amazon [here](https://geni.us/ix5c)
+You can view current Bosch dishwasher pricing on Amazon [here](https://www.amazon.com/dp/B0BT5MT8KV?tag=crwatchdog-20)
 
 <p>
   <img
@@ -126,7 +126,7 @@ You can view current Bosch dishwasher pricing on Amazon [here](https://geni.us/i
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ix5c"
+    href="https://www.amazon.com/dp/B0BT5MT8KV?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -180,7 +180,7 @@ electronic failures compared to some ultra high tech competitors.
 
 You can explore current Thermador ranges directly on the official site
 above or check premium retailer listings on Amazon here:
-https://geni.us/mlba
+https://www.amazon.com/s?k=Thermador+range&tag=crwatchdog-20
 
 ------------------------------------------------------------------------
 
@@ -239,7 +239,7 @@ reliability histories may not require one.
 
 ### Where can I compare prices?
 
-You can compare current pricing and availability on [Amazon](https://geni.us/rTGk0p).
+You can compare current pricing and availability on [Amazon](https://www.amazon.com/s?tag=crwatchdog-20).
 
 You can also review independent buying advice and home tech comparisons
 [here](https://monitornerds.com).

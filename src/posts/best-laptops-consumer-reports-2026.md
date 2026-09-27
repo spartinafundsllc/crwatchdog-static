@@ -47,7 +47,7 @@ Here is the definitive watchdog breakdown of the highest-rated laptops currently
 
 ## Spotlight Deep-Dive: The #1 17-Inch Laptop
 
-### [LG gram 17" Copilot+ PC (17Z90TL-H.AUB7U1)](https://geni.us/7rA6K)
+### [LG gram 17" Copilot+ PC (17Z90TL-H.AUB7U1)](https://www.amazon.com/dp/B0GSBKKLQ8?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -58,7 +58,7 @@ Here is the definitive watchdog breakdown of the highest-rated laptops currently
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/7rA6K" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0GSBKKLQ8?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 80 / 100 (#1 in 17- to 18-Inch Category)
@@ -82,13 +82,13 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 
 ## Top 15- to 16-Inch Laptops
 
-### 1. [LG gram Pro 2in1 16" (16T90TP)](https://geni.us/cZPAL)
+### 1. [LG gram Pro 2in1 16" (16T90TP)](https://www.amazon.com/dp/B0GSBKKLQ8?tag=crwatchdog-20)
 * **Overall Score:** 82 / 100 (Highest scoring laptop in 2026 tests)
 * **Estimated Price:** $2,200.00 – $3,050.00
 * **The Blueprint:** If you want convertible versatility with zero weight penalty, this 3.0-lb 2-in-1 is the top dog. It packs a high-contrast OLED touchscreen display that delivers pitch-perfect black levels and near-perfect color coverage, backed by Intel Core Ultra 7 power and all-day battery life.
 * **The Catch:** Premium pricing that climbs rapidly as you add storage configurations.
 
-### 2. [Apple MacBook Pro 16" (M4 Pro Silicon)](https://geni.us/eMtDB)
+### 2. [Apple MacBook Pro 16" (M4 Pro Silicon)](https://www.amazon.com/dp/B0FWD623D1?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -99,7 +99,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/eMtDB" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0FWD623D1?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 81 / 100
@@ -107,7 +107,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 * **The Blueprint:** Tested with Apple’s 14-core M4 Pro processor, 24GB of unified memory, and a 20-core GPU, this laptop generated the fastest raw computational and graphic benchmark scores in CR's 15-to-16-inch testing history. Its Liquid Retina XDR screen is the industry gold standard for color grading, and it logged a massive 18 hours in video playback testing.
 * **The Catch:** At 4.7 lbs, it is noticeably heavier than the LG Gram or Galaxy Book, and Apple upgrades remain pricey.
 
-### 3. [Samsung Galaxy Book6 Pro 16" Copilot+ PC](https://geni.us/LuDxT8)
+### 3. [Samsung Galaxy Book6 Pro 16" Copilot+ PC](https://www.amazon.com/dp/B0F1NHSFMF?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -118,7 +118,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/LuDxT8" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0F1NHSFMF?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 79 / 100
@@ -126,7 +126,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 * **The Blueprint:** Samsung engineered the ultimate road-warrior laptop. It logged over **20 hours of continuous runtime** in CR’s battery benchmark gauntlet. The Dynamic AMOLED 2X display offers vibrant colors that remain easily readable outdoors, and its thin aluminum profile slips effortlessly into any briefcase.
 * **The Catch:** Integrated graphics mean it is built strictly for high-end office productivity and media consumption rather than hardcore 3D gaming.
 
-### 4. [Acer Swift 16 AI (SF16-71T-70PN)](https://geni.us/KI4nFGl)
+### 4. [Acer Swift 16 AI (SF16-71T-70PN)](https://www.amazon.com/dp/B0GR685V9X?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -137,7 +137,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/KI4nFGl" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0GR685V9X?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 78 / 100 (**CR Smart Buy Designation**)
@@ -145,7 +145,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 * **The Blueprint:** The undisputed value champion of the year. For under $1,000, Acer equips this machine with Intel’s new Core Ultra X7 processor, upgraded Intel Arc B390 graphics, 16GB RAM, a 1TB SSD, and a bright touchscreen. It earned CR's coveted "Smart Buy" award for matching the speed of laptops costing twice as much.
 * **The Catch:** Speaker quality is average, and the exterior chassis uses more polycarbonate plastic than all-metal competitors.
 
-### 5. [Apple MacBook Air 15" (M3/M4 Series)](https://geni.us/dEmUy)
+### 5. [Apple MacBook Air 15" (M3/M4 Series)](https://www.amazon.com/dp/B0CRLDQ2WP?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -156,7 +156,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/dEmUy" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0CRLDQ2WP?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 76 / 100
@@ -168,7 +168,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 
 ## Heavy-Duty 18-Inch Desktop Replacements & Gaming
 
-### [MSI Crosshair 18 HX AI](https://geni.us/AmbjQU)
+### [MSI Crosshair 18 HX AI](https://www.amazon.com/dp/B0FM3H562T?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -179,7 +179,7 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 </p>
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/AmbjQU" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0FM3H562T?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 73 / 100
@@ -191,10 +191,10 @@ In CR’s lab endurance testing, the 77 WHr battery ran for an astonishing **19.
 
 ## The Watchdog Verdict: Which Laptop Fits Your Needs?
 
-* **Best Overall Big-Screen Laptop for Travel:** The **[LG gram 17" Copilot+ PC](https://geni.us/7rA6K)** ($1,700) is unmatched. You get a massive 17" screen, 2TB storage, and 19.75 hours of battery life at just 3.1 lbs.
-* **Best for Serious Creative Professionals:** The **[Apple MacBook Pro 16" M4 Pro](https://geni.us/eMtDB)** ($2,499) provides the best screen, speakers, and video rendering performance on the market.
-* **Best Value Under $1,000:** The **[Acer Swift 16 AI](https://geni.us/KI4nFGl)** ($999) delivers flagship Intel Core Ultra speed and all-day battery life at half the price of luxury brands.
-* **Best Silent Everyday Mac:** The **[Apple MacBook Air 15"](https://geni.us/dEmUy)** ($1,200) is light, fanless, and built like a tank.
+* **Best Overall Big-Screen Laptop for Travel:** The **[LG gram 17" Copilot+ PC](https://www.amazon.com/dp/B0GSBKKLQ8?tag=crwatchdog-20)** ($1,700) is unmatched. You get a massive 17" screen, 2TB storage, and 19.75 hours of battery life at just 3.1 lbs.
+* **Best for Serious Creative Professionals:** The **[Apple MacBook Pro 16" M4 Pro](https://www.amazon.com/dp/B0FWD623D1?tag=crwatchdog-20)** ($2,499) provides the best screen, speakers, and video rendering performance on the market.
+* **Best Value Under $1,000:** The **[Acer Swift 16 AI](https://www.amazon.com/dp/B0GR685V9X?tag=crwatchdog-20)** ($999) delivers flagship Intel Core Ultra speed and all-day battery life at half the price of luxury brands.
+* **Best Silent Everyday Mac:** The **[Apple MacBook Air 15"](https://www.amazon.com/dp/B0CRLDQ2WP?tag=crwatchdog-20)** ($1,200) is light, fanless, and built like a tank.
 
 ---
 

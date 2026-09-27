@@ -26,7 +26,7 @@ featured_image_alt: "Bosch Benchmark SHP9PCM5N Series 24 Inch Smart Built-In Dis
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/goktBN"
+    href="https://www.amazon.com/dp/B0D8K28DTD?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -67,10 +67,10 @@ These five models earned high overall scores in Consumer Reports’ lab testing 
 
 | Model | Brand | Price Range | CR Score | Notable Features | Why It Stands Out |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Bosch Benchmark SHP9PCM5N](https://geni.us/goktBN) | Bosch | $1,794 – $2,384 | 85 | Motorized wash arm, WiFi, stainless interior, lighted tub, hidden controls | Best overall blend of washing, drying, quietness, and advanced cleaning features |
+| [Bosch Benchmark SHP9PCM5N](https://www.amazon.com/dp/B0D8K28DTD?tag=crwatchdog-20) | Bosch | $1,794 – $2,384 | 85 | Motorized wash arm, WiFi, stainless interior, lighted tub, hidden controls | Best overall blend of washing, drying, quietness, and advanced cleaning features |
 | [Miele G7176SCVI](https://media.miele.com/downloads/n-/us/FS_12021290_USE_US-en-US.pdf) | Miele | $1,849 | 79 | Auto-open drying, Energy Star, auto detergent dispensing, extremely low water use | Most water-efficient model with elite washing and drying |
 | [Thermador Star Sapphire DWHD661EFP](https://www.thermador.com/us/en/mkt-product/dishwashers/stainless-steel/DWHD661EFP) | Thermador | $2,499 | 78 | Programmable LED colors, time-to-finish floor projection, adjustable third rack | Luxury features + strong performance, ideal for premium kitchens |
-| [LG Studio SDWB24S3](https://geni.us/I6Sw) | LG | $1,095 – $1,368 | 75 | Interior lighting, WiFi, adjustable racks, quiet operation | Best value high-end model under $1,400 |
+| [LG Studio SDWB24S3](https://www.amazon.com/dp/B0CP8KYYPW?tag=crwatchdog-20) | LG | $1,095 – $1,368 | 75 | Interior lighting, WiFi, adjustable racks, quiet operation | Best value high-end model under $1,400 |
 | [KitchenAid KDTF924PPS](https://www.kitchenaid.com/major-appliances/dishwashers/integrated-control/p.39-dba-printshield-finish-flush-to-cabinet-dishwasher-with-freeflex-fit-third-level-rack.kdtf924pps.html) | KitchenAid | $1,888 – $2,099 | 77 | Auto-open drying, upper-rack wash focus, adjustable tines, third rack | Top-tier ease of use and excellent upper-rack cleaning |
 
 ---
@@ -86,7 +86,7 @@ The stainless steel interior, third rack, adjustable upper rack, hidden controls
 
 *Best for homeowners who want the highest performance and the most advanced cleaning system available.*
 
-[Check Price on Amazon](https://geni.us/goktBN)
+[Check Price on Amazon](https://www.amazon.com/dp/B0D8K28DTD?tag=crwatchdog-20)
 
 
 <p>
@@ -98,7 +98,7 @@ The stainless steel interior, third rack, adjustable upper rack, hidden controls
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/goktBN"
+    href="https://www.amazon.com/dp/B0D8K28DTD?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -174,7 +174,7 @@ Though LG’s owner satisfaction scores are only average, this model is a **CR G
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/I6Sw"
+    href="https://www.amazon.com/dp/B0CP8KYYPW?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -199,7 +199,7 @@ Though LG’s owner satisfaction scores are only average, this model is a **CR G
 </div>
 
 
-[Check Price on Amazon](https://geni.us/I6Sw)
+[Check Price on Amazon](https://www.amazon.com/dp/B0CP8KYYPW?tag=crwatchdog-20)
 
 ---
 

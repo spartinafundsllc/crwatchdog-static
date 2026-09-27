@@ -39,7 +39,7 @@ To understand the results, you need to know how CR tests. They measure both UVB 
 
 Here is how the brands stacked up in the lab:
 
-### [Beauty of Joseon Relief Sun: Rice + Probiotics](https://geni.us/K27SRl)
+### [Beauty of Joseon Relief Sun: Rice + Probiotics](https://www.amazon.com/dp/B0G4Z5G1NT?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -49,13 +49,13 @@ Here is how the brands stacked up in the lab:
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/K27SRl" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0G4Z5G1NT?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Korean Formula (Relief Sun: Rice + Probiotics):** Excellent (5/5) UVA protection, Excellent (5/5) UVB protection, Average Tested SPF: 36.
 * **U.S. Formula (Day Dew Sunscreen):** Excellent (5/5) UVA protection, Fair (2/5) UVB protection, Average Tested SPF: 19.
 
-### [Innisfree Daily UV Defense Sunscreen](https://geni.us/T0SCmx1)
+### [Innisfree Daily UV Defense Sunscreen](https://www.amazon.com/s?k=Innisfree+Sunscreen&tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -65,13 +65,13 @@ Here is how the brands stacked up in the lab:
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/T0SCmx1" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/s?k=Innisfree+Sunscreen&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Korean Formula (Intensive Long Lasting Sunscreen EX):** Excellent (5/5) UVA protection, Excellent (5/5) UVB protection, Average Tested SPF: 48.
 * **U.S. Formula (Daily UV Defense):** Excellent (5/5) UVA protection, Fair (2/5) UVB protection, Average Tested SPF: 16.
 
-### [Round Lab Birch Juice Moisturizing Sunscreen](https://geni.us/HAZF)
+### [Round Lab Birch Juice Moisturizing Sunscreen](https://www.amazon.com/s?k=Round+Lab+Sunscreen&tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -81,7 +81,7 @@ Here is how the brands stacked up in the lab:
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/HAZF" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/s?k=Round+Lab+Sunscreen&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Korean Formula (Round Lab Birch Juice Moisturizing Sunscreen):** Excellent (5/5) UVA protection, Excellent (5/5) UVB protection, Average Tested SPF: 46.

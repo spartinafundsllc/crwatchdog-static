@@ -25,7 +25,7 @@ featured_image_alt: "LG 6000 BTU Window Air Conditioner Energy Saving Dual Inver
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/kfHml"
+    href="https://www.amazon.com/dp/B0CL1DJPZ8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -74,7 +74,7 @@ If you're ready to upgrade your bedroom, home office, or living room, these are 
 
 These units typically pump out around 5,000 to 6,500 Btu of cooling capacity, making them perfect for standard bedrooms or compact home offices. 
 
-### [LG LW6023IVSM](https://geni.us/kfHml)
+### [LG LW6023IVSM](https://www.amazon.com/dp/B0CL1DJPZ8?tag=crwatchdog-20)
 
 
 <p>
@@ -86,7 +86,7 @@ These units typically pump out around 5,000 to 6,500 Btu of cooling capacity, ma
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/kfHml"
+    href="https://www.amazon.com/dp/B0CL1DJPZ8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -115,7 +115,7 @@ These units typically pump out around 5,000 to 6,500 Btu of cooling capacity, ma
 * **Estimated Price:** $399.00 - $479.95
 * **The Watchdog Take:** This inverter-driven model is an absolute superstar for a bedroom. While it scores near-perfect marks across the board, its true superpower is how stealthily it runs on its lowest setting—with CR testers reporting it as simply the quietest model in their entire ratings database. It handles power dips (brownouts) flawlessly, maintains a remarkably steady temperature, and boasts intuitive controls. In owner surveys, LG window units consistently earn top marks for overall reliability.
 
-### [SoleusAir WS3-06E-201](https://geni.us/jVHM)
+### [SoleusAir WS3-06E-201](https://www.amazon.com/dp/B0DD1ZLTYH?tag=crwatchdog-20)
 
 
 <p>
@@ -127,7 +127,7 @@ These units typically pump out around 5,000 to 6,500 Btu of cooling capacity, ma
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/jVHM"
+    href="https://www.amazon.com/dp/B0DD1ZLTYH?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -162,7 +162,7 @@ These units typically pump out around 5,000 to 6,500 Btu of cooling capacity, ma
 
 If you need to cool a larger bedroom, a spacious kitchen, or a mid-sized apartment layout, you'll want to step up to a unit in the 7,000 to 8,500 Btu range.
 
-### [Frigidaire Gallery GHWQ085WD1](https://geni.us/4KXNOtx)
+### [Frigidaire Gallery GHWQ085WD1](https://www.amazon.com/dp/B0DFZS2JNG?tag=crwatchdog-20)
 
 
 <p>
@@ -174,7 +174,7 @@ If you need to cool a larger bedroom, a spacious kitchen, or a mid-sized apartme
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/4KXNOtx"
+    href="https://www.amazon.com/dp/B0DFZS2JNG?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -203,7 +203,7 @@ If you need to cool a larger bedroom, a spacious kitchen, or a mid-sized apartme
 * **Estimated Price:** $559.00
 * **The Watchdog Take:** This model is a masterclass in engineering, standing out as the *only* recommended option in its size class to pull off top marks for noise on both high and low settings. By combining a U-shaped body with an inverter compressor, Frigidaire created a unit that delivers exceptional comfort and handles brownouts without missing a beat. Survey data indicates Frigidaire's predicted reliability is excellent, though general owner satisfaction lags slightly behind the category leaders.
 
-### [Midea U-Shaped MAW08V1QWT](https://geni.us/YP64)
+### [Midea U-Shaped MAW08V1QWT](https://www.amazon.com/dp/B0G34MR64D?tag=crwatchdog-20)
 
 
 <p>
@@ -215,7 +215,7 @@ If you need to cool a larger bedroom, a spacious kitchen, or a mid-sized apartme
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/YP64"
+    href="https://www.amazon.com/dp/B0G34MR64D?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -250,7 +250,7 @@ If you need to cool a larger bedroom, a spacious kitchen, or a mid-sized apartme
 
 Designed for open-concept living rooms, large home offices, or studio apartments, these heavy-duty 10,000 to 12,000 Btu units pack serious cooling power while managing to keep the volume down.
 
-### [Midea U-Shaped MAW12V1QWT](https://geni.us/xsNnqdX)
+### [Midea U-Shaped MAW12V1QWT](https://www.amazon.com/dp/B0G34JL2ZS?tag=crwatchdog-20)
 
 
 <p>
@@ -262,7 +262,7 @@ Designed for open-concept living rooms, large home offices, or studio apartments
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/xsNnqdX"
+    href="https://www.amazon.com/dp/B0G34JL2ZS?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -291,7 +291,7 @@ Designed for open-concept living rooms, large home offices, or studio apartments
 * **Estimated Price:** $449.00
 * **The Watchdog Take:** Sitting at the absolute top of the large-room charts, this 12,000-Btu inverter monster holds the highest Overall Score for a reason. It sweeps top scores for low-setting noise, comfort control, ease of use, and brownout recovery. Combined with Midea’s top-tier reliability standings, it is an absolute slam dunk for large spaces.
 
-### [Frigidaire Gallery GHWQ103WC1](https://geni.us/XICCzk0)
+### [Frigidaire Gallery GHWQ103WC1](https://www.amazon.com/dp/B092KGS2J2?tag=crwatchdog-20)
 
 
 <p>
@@ -303,7 +303,7 @@ Designed for open-concept living rooms, large home offices, or studio apartments
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/XICCzk0"
+    href="https://www.amazon.com/dp/B092KGS2J2?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

@@ -27,7 +27,7 @@ featured_image_alt: "LG LREN6325XE Electric Range"
 
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/KC8r"
+    href="https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -55,13 +55,13 @@ If you are upgrading your kitchen and prefer the sleek look and easy cleanup of 
 
 You need an appliance that can bring a giant pot of pasta water to a rapid boil *and* delicately melt chocolate without scorching it. 
 
-Today, we are looking at the **[LG LREN6325XE](https://geni.us/KC8r)**, a 30-inch freestanding electric smoothtop range. Priced around $995, it sits right in the competitive mid-tier bracket. But does it deliver high-end performance? 
+Today, we are looking at the **[LG LREN6325XE](https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20)**, a 30-inch freestanding electric smoothtop range. Priced around $995, it sits right in the competitive mid-tier bracket. But does it deliver high-end performance? 
 
 To find out, we pulled the rigorous, independent lab data directly from the highly respected Consumer Reports. The results are staggering. Earning the coveted status of a **"CR Recommended" pick** and an Overall Score of 79, this LG model absolutely dominated the performance tests. Here is our detailed, no-nonsense breakdown of why this range deserves a spot in your kitchen.
 
 ## Flawless Lab Performance: The Perfect 5/5 Sweep
 
-When the experts at Consumer Reports test a range, they don't just turn it on and see if it gets hot. They run standardized, repeatable tests to measure exact performance. In an incredibly rare showing, the **[LG LREN6325XE](https://geni.us/KC8r)** earned a perfect 5/5 score across almost every single major testing category. 
+When the experts at Consumer Reports test a range, they don't just turn it on and see if it gets hot. They run standardized, repeatable tests to measure exact performance. In an incredibly rare showing, the **[LG LREN6325XE](https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20)** earned a perfect 5/5 score across almost every single major testing category. 
 
 ## 
 
@@ -83,7 +83,7 @@ Here is how the data breaks down:
 
 ## Features That Actually Matter
 
-Beyond the raw heating data, the **[LG LREN6325XE](https://geni.us/KC8r)** packs several practical features that make daily cooking and cleaning significantly easier:
+Beyond the raw heating data, the **[LG LREN6325XE](https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20)** packs several practical features that make daily cooking and cleaning significantly easier:
 
 * **Hidden Bake Element:** The bottom heating element is hidden beneath the floor of the oven. If a pie bubbles over or a casserole spills, you can simply wipe the flat bottom of the oven clean without having to awkwardly scrub around a fragile, exposed heating coil.
 * **Multiple Cooking Modes:** The oven isn't just for standard baking. It features built-in settings for Convection, Air Fry, Slow Cook, Keep Warm, and Proofing (for bread makers). 
@@ -109,7 +109,7 @@ When it comes to Owner Satisfaction, LG actually ranks #3 out of 13 brands. Whil
 
 ## The Final Verdict
 
-Priced around $995 at major retailers like Abt Electronics, **[Amazon](https://geni.us/KC8r)**, Home Depot, and Best Buy, the **[LG LREN6325XE](https://geni.us/KC8r)** is an absolute steal. 
+Priced around $995 at major retailers like Abt Electronics, **[Amazon](https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20)**, Home Depot, and Best Buy, the **[LG LREN6325XE](https://www.amazon.com/dp/B08PN448L7?tag=crwatchdog-20)** is an absolute steal. 
 
 It is incredibly rare to find an appliance under $1,000 that manages to secure perfect 5/5 scores in high heat, low heat, baking, broiling, and capacity from the highly respected Consumer Reports. Combine that top-tier lab performance with its status as a CR Recommended pick, a massive 6.3-cubic-foot interior, a hidden bake element, and built-in Air Fry capabilities, and you have one of the best value propositions on the appliance market today. 
 

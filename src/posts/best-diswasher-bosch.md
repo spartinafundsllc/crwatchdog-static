@@ -33,10 +33,10 @@ featured_image_alt: "Bosch Benchmark SHP9PCM5N Built-In Dishwasher"
 </p>
 
 <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-  <a href="https://geni.us/QSWrx" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.1rem; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Check Price on Amazon (Bosch Benchmark SHP9PCM5N)</a>
+  <a href="https://www.amazon.com/dp/B0G1SBXNW4?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.1rem; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Check Price on Amazon (Bosch Benchmark SHP9PCM5N)</a>
 </div>
 
-If you are tired of pre-washing your plates and towel-drying your Tupperware, the market has an answer. Right now, the **[Bosch Benchmark SHP9PCM5N](https://geni.us/QSWrx)** sits at the absolute top of Consumer Reports' dishwasher rankings. It earned a massive Overall Score of 85 out of 100, beating out over 120 other models.
+If you are tired of pre-washing your plates and towel-drying your Tupperware, the market has an answer. Right now, the **[Bosch Benchmark SHP9PCM5N](https://www.amazon.com/dp/B0G1SBXNW4?tag=crwatchdog-20)** sits at the absolute top of Consumer Reports' dishwasher rankings. It earned a massive Overall Score of 85 out of 100, beating out over 120 other models.
 
 But at a premium price point ranging from $1,766 to nearly $2,500, is it actually worth the investment? Here at CR Watchdog, we do not care about shiny showrooms—we care about the data. We cross-referenced independent lab testing with manufacturer specs to give you the bottom line. 
 
@@ -52,7 +52,7 @@ According to survey data from over 66,000 Consumer Reports members, Bosch is the
 
 ## Lab-Tested Performance: Where the Benchmark Shines
 
-In Consumer Reports' rigorous lab testing, the **[Bosch Benchmark SHP9PCM5N](https://geni.us/QSWrx)** didn't just survive; it excelled. 
+In Consumer Reports' rigorous lab testing, the **[Bosch Benchmark SHP9PCM5N](https://www.amazon.com/dp/B0G1SBXNW4?tag=crwatchdog-20)** didn't just survive; it excelled. 
 
 * **Exceptional Drying (5/5):** The biggest complaint about modern, energy-efficient dishwashers is wet plasticware. This model earned a perfect 5/5 for drying. Bosch achieves this using their patented "CrystalDry" technology, which transforms moisture in the tub into heat up to 176°F, leaving even plastic storage containers perfectly dry. 
 * **Whisper Quiet (5/5):** This machine earned a top score for noise in the lab. With an operating sound level of just 38 dBA, it is astoundingly quiet. Because it runs so silently, Bosch includes a "TimeLight" feature that projects the remaining cycle time directly onto your floor so you know it is actually running.
@@ -77,5 +77,5 @@ However, those are minor trade-offs for a machine that cleans beautifully, dries
 If you have the budget for a premium appliance, the **Bosch Benchmark SHP9PCM5N** is the safest, highest-performing bet you can make for your kitchen.
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a href="https://geni.us/QSWrx" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.1rem; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Check Price on Amazon (Bosch Benchmark SHP9PCM5N)</a>
+  <a href="https://www.amazon.com/dp/B0G1SBXNW4?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 15px 30px; border-radius: 8px; font-weight: 700; font-size: 1.1rem; text-decoration: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Check Price on Amazon (Bosch Benchmark SHP9PCM5N)</a>
 </div>

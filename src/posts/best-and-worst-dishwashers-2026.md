@@ -25,7 +25,7 @@ We dug through their 2026 lab data to bring you the absolute best standard-sized
 
 If you want squeaky-clean dishes, dry plastics, and whisper-quiet operation, these models dominated the lab tests.
 
-### 1. The Premium Kings: [Bosch Benchmark & 800 Series](https://geni.us/cgDxox)
+### 1. The Premium Kings: [Bosch Benchmark & 800 Series](https://www.amazon.com/dp/B0FBY6WX38?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -35,14 +35,14 @@ If you want squeaky-clean dishes, dry plastics, and whisper-quiet operation, the
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/cgDxox" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0FBY6WX38?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Models:** Bosch Benchmark SHP9PCM5N (Score: 85, ~$2,497) | Bosch 800 Series SHX78CM5N (Score: 85, ~$1,935)
-* **The Watchdog Take:** Bosch has completely cemented its reputation as the king of dishwashers. Both of these top-tier models earned an elite Overall Score of 85. They are incredibly quiet, incredibly energy-efficient, and feature a brand-new motorized wash arm that spins independently rather than relying on water pressure. Check availability for the [Bosch 800 Series SHX78CM5N](https://geni.us/WXPWl) as well.
+* **The Watchdog Take:** Bosch has completely cemented its reputation as the king of dishwashers. Both of these top-tier models earned an elite Overall Score of 85. They are incredibly quiet, incredibly energy-efficient, and feature a brand-new motorized wash arm that spins independently rather than relying on water pressure. Check availability for the [Bosch 800 Series SHX78CM5N](https://www.amazon.com/s?k=Bosch+800+Series+SHX78CM5N+Dishwasher&tag=crwatchdog-20) as well.
 * **The Catch:** While both models feature adjustable racks and WiFi capability, you actually *have* to use Bosch's smartphone app to access certain features like delay-start and zone washing. Also, if you want interior lighting, a time-remaining indicator, and a built-in water softener, you will have to shell out the extra cash for the Benchmark series.
 
-### 2. The Cleaning Champion: [LG Studio SDNTHS72S](https://geni.us/BEFyFAE)
+### 2. The Cleaning Champion: [LG Studio SDNTHS72S](https://www.amazon.com/s?k=LG+Studio+SDNTHS72S+Dishwasher&tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -52,24 +52,24 @@ If you want squeaky-clean dishes, dry plastics, and whisper-quiet operation, the
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/BEFyFAE" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/s?k=LG+Studio+SDNTHS72S+Dishwasher&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 79
 * **Estimated Price:** $1,149
 * **The Watchdog Take:** According to the lab data, this LG model is the absolute best at washing dishes on this list. It tackles crusted-on food effortlessly and features a specialized wash zone designed specifically for cleaning the inside of bottles. It also scored very well in drying, making it a highly well-rounded machine for the price.
 
-### 3. The Reliability Pick: [Miele G7196SCVISF](https://geni.us/8UUttd)
+### 3. The Reliability Pick: [Miele G7196SCVISF](https://www.amazon.com/s?k=Miele+G7196SCVISF+Dishwasher&tag=crwatchdog-20)
 
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/8UUttd" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/s?k=Miele+G7196SCVISF+Dishwasher&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Overall Score:** 79
 * **Estimated Price:** $2,399
 * **The Watchdog Take:** Miele is legendary for its build quality, earning top-tier scores in both predicted reliability and owner satisfaction. This specific model features best-in-class energy efficiency, top-mounted touch controls, and a unique automatic detergent dispenser that perfectly portions your soap for you. However, its drying performance is only middling, which is slightly disappointing for a machine that costs over $2,000.
 
-### 4. The Value Picks: [Bosch 300 Series](https://geni.us/MlGwo2)
+### 4. The Value Picks: [Bosch 300 Series](https://www.amazon.com/dp/B0FBXWQTDR?tag=crwatchdog-20)
 
 <p style="text-align: center;">
   <img 
@@ -79,11 +79,11 @@ If you want squeaky-clean dishes, dry plastics, and whisper-quiet operation, the
   />
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
-  <a href="https://geni.us/MlGwo2" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
+  <a href="https://www.amazon.com/dp/B0FBXWQTDR?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 14px 26px; border-radius: 6px; font-weight: 700; font-size: 1.2rem; text-decoration: none; text-transform: uppercase;">Check Price on Amazon</a>
 </div>
 
 * **Models:** Bosch 300 Series SHE53C85N (Score: 81, ~$1,099) | Bosch 300 Series SHE3ADF5N (Score: 79, ~$649)
-* **The Watchdog Take:** If you want Bosch's legendary reliability without spending two grand, the 300 Series is where you should look. The SHE53C85N model offers near-top-level washing and noise performance, though it struggles slightly to completely dry plastics. You can also view the [Bosch 300 Series SHE53C85N](https://geni.us/9qJL5YE). If you are on a strict budget, the Lowe's exclusive SHE3ADF5N model drops the price down to $649. It isn't quite as quiet, and the tub uses some plastic instead of being 100% stainless steel, but it still delivers excellent washing performance for the price.
+* **The Watchdog Take:** If you want Bosch's legendary reliability without spending two grand, the 300 Series is where you should look. The SHE53C85N model offers near-top-level washing and noise performance, though it struggles slightly to completely dry plastics. You can also view the [Bosch 300 Series SHE53C85N](https://www.amazon.com/s?k=Bosch+300+Series+SHE53C85N+SHE3ADF5N+Dishwasher&tag=crwatchdog-20). If you are on a strict budget, the Lowe's exclusive SHE3ADF5N model drops the price down to $649. It isn't quite as quiet, and the tub uses some plastic instead of being 100% stainless steel, but it still delivers excellent washing performance for the price.
 
 ---
 
@@ -91,25 +91,25 @@ If you want squeaky-clean dishes, dry plastics, and whisper-quiet operation, the
 
 Just because a dishwasher has a massive price tag or a luxury brand name doesn't mean it will actually clean your dishes. These models completely flopped in CR's lab tests.
 
-### 1. [Viking VDWU524SS](https://geni.us/oGZJnA)
+### 1. [Viking VDWU524SS](https://www.amazon.com/s?k=Viking+VDWU524SS+Dishwasher&tag=crwatchdog-20)
 
 * **Overall Score:** 49
 * **Estimated Price:** $2,249
 * **The Watchdog Take:** This is the ultimate example of why you shouldn't blindly trust luxury price tags. Despite costing over $2,000, this Viking dishwasher delivered well below-par drying performance. Worse, Viking earns an unfavorable rating for predicted reliability and a rock-bottom, bottom-tier rating for owner satisfaction. Avoid this at all costs.
 
-### 2. [Smeg STU2FABWH2](https://geni.us/5b6Hfy)
+### 2. [Smeg STU2FABWH2](https://www.amazon.com/s?k=Smeg+STU2FABWH2+Dishwasher&tag=crwatchdog-20)
 
 * **Overall Score:** 49
 * **Estimated Price:** $1,899
 * **The Watchdog Take:** Another overpriced disappointment. For nearly $1,900, you are getting a machine that earned lackluster scores for cleaning dishes on both racks. It is noisy, the drying is strictly average, and your money is better spent literally anywhere else.
 
-### 3. [Frigidaire FDHP4336AS](https://geni.us/VMz7)
+### 3. [Frigidaire FDHP4336AS](https://www.amazon.com/s?k=Frigidaire+FDHP4336AS+Dishwasher&tag=crwatchdog-20)
 
 * **Overall Score:** 49
 * **Estimated Price:** $529 - $810
 * **The Watchdog Take:** While this Frigidaire is actually very good at drying, its washing performance is noticeably below average. It is a noisy machine, and according to member surveys, its long-term owner satisfaction score is completely lousy.
 
-### 4. [Hotpoint HDF330PGRWW (Lowe's Exclusive)](https://geni.us/MBVOZTJ)
+### 4. [Hotpoint HDF330PGRWW (Lowe's Exclusive)](https://www.amazon.com/s?k=Hotpoint+HDF330PGRWW+Dishwasher&tag=crwatchdog-20)
 
 * **Overall Score:** 48
 * **Estimated Price:** $320

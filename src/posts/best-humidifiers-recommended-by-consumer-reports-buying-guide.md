@@ -58,7 +58,7 @@ Consumer Reports divided its recommendations into three categories to make it ea
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/Cugszt">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B06XP1GMDY?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The pricey yet very effective Babymoov Hygro+ is the best pick for small room humidifiers. It’s quiet and convenient, although its humidistat isn’t dead accurate when compared with a measuring instrument.
@@ -74,7 +74,7 @@ The pricey yet very effective Babymoov Hygro+ is the best pick for small room hu
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/mklO">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B0C2GKJ9RT?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The Levoit Dual 200S is a better-priced smart humidifier pick that performs just as good as the option above. It is efficient and quiet, but it’s also prone to slight humidistat inaccuracies.
@@ -90,7 +90,7 @@ The Levoit Dual 200S is a better-priced smart humidifier pick that performs just
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/W9DA8m1">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B096W9N9J3?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The Honeywell HUL900 scores perfectly in every performance metric Consumer Reports threw at it. However, its main weakness is that it cannot take hard water, and it’s very expensive at $200 MSRP.
@@ -108,7 +108,7 @@ The Honeywell HUL900 scores perfectly in every performance metric Consumer Repor
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/HPgS">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B07GRGW3SY?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The Honeywell HUL430B offers fantastic performance and efficiency scores based on Consumer Reports testing in the medium room segment. It’s also affordable, but it doesn’t have a humidistat like the HUL900.
@@ -124,7 +124,7 @@ The Honeywell HUL430B offers fantastic performance and efficiency scores based o
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/Bw2X50F">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B09W5XCXS5?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The TaoTronics TT-AH001 is a bit more difficult to use due to its complex design. However, it’s the best performer in the lot, especially in the humidistat accuracy test.
@@ -140,7 +140,7 @@ The TaoTronics TT-AH001 is a bit more difficult to use due to its complex design
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/i3ob">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B01M7Q4858?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The only issue PureGuardian has, according to Consumer Reports, is its higher price that doesn’t include a humidistat feature. It costs almost twice as much as the two top options in this segment, so it should at least include a sensor for auto shut-off.
@@ -158,7 +158,7 @@ The only issue PureGuardian has, according to Consumer Reports, is its higher pr
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/8Ae9FA">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B09C24TYGQ?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The Levoit Classic 300S isn’t perfect, but its large capacity and worry-free performance make it the best choice for large rooms. Its humidistat isn’t the most accurate, but its price is pretty much justified by everything else.
@@ -174,7 +174,7 @@ The Levoit Classic 300S isn’t perfect, but its large capacity and worry-free p
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/YTLF2vE">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B0851RXRQM?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The Lasko UH300 performs comparably with the 300S above, but it is cheaper and has a sleeker overall shape. The main downside with it is its poorer humidistat accuracy.
@@ -190,7 +190,7 @@ The Lasko UH300 performs comparably with the 300S above, but it is cheaper and h
 </p>
 
 <p class="has-text-align-center">
-  <a class="more-link-content" href="https://geni.us/wVWe">Buy Now from Amazon</a>
+  <a class="more-link-content" href="https://www.amazon.com/dp/B000O3I2CG?tag=crwatchdog-20">Buy Now from Amazon</a>
 </p>
 
 The SPT SU-4010 is another excellent large-capacity option for living or dining rooms. However, it’s the priciest in the bunch, even if it doesn’t have a humidistat.

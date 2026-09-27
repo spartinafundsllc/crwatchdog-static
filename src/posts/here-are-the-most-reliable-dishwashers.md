@@ -58,7 +58,7 @@ However, if you want to actually *like* the machine, you need to narrow that lis
 
 *   **Bosch Benchmark SHP9PCM5N:** This is CR's highest-rated dishwasher overall (Score: 85). It costs between $1,766 and $2,497, but you get what you pay for. It is pleasingly quiet, extremely energy-efficient, and top-tier at both washing and drying. It includes an adjustable upper rack and a highly functional third rack.
 
-<a href="https://geni.us/ZIRwVN" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 700; text-decoration: none; margin-bottom: 1rem;">Shop Bosch Dishwashers on Amazon</a>
+<a href="https://www.amazon.com/s?k=Bosch+Dishwasher&tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 700; text-decoration: none; margin-bottom: 1rem;">Shop Bosch Dishwashers on Amazon</a>
 
 *   **Miele G7196SCVISF:** Coming in at $2,399 (Score: 79), it runs quietly and features a brilliant automatic detergent dispenser system so you never use the wrong amount of soap. Just note that while its washing is stellar, its drying performance is only graded as "so-so."
 
@@ -69,7 +69,7 @@ You do not have to spend two grand to get a reliable clean.
 
 The **Midea MDT24P3CST** proves you can get exceptional reliability for a median price of just $498. It earned an excellent reliability rating, washes and dries impressively well, and even features a door that automatically pops open at the end of the cycle to vent steam (a feature usually reserved for premium models). While its owner satisfaction score is only middling and it is a bit noisier than a Bosch, it is incredibly energy efficient and features a dedicated bottle washer zone.
 
-<a href="https://geni.us/usYnS" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 700; text-decoration: none; margin-bottom: 1rem;">Check Price on Amazon (Midea MDT24P3CST)</a>
+<a href="https://www.amazon.com/dp/B0G21MCK77?tag=crwatchdog-20" target="_blank" rel="sponsored nofollow noopener" style="display: inline-block; background-color: #2a68c4; color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 700; text-decoration: none; margin-bottom: 1rem;">Check Price on Amazon (Midea MDT24P3CST)</a>
 
 **The Watchdog's Bottom Line:** 
 If you have the budget, buy a Bosch or a Miele. They are the undeniable kings of the kitchen cleanup right now. (If a Bosch Benchmark is too pricey, look at the Bosch 100 or 300 series, which deliver that same legendary reliability with median prices around $937). If you want to keep your budget under $500, skip the big American legacy brands and grab a Midea.

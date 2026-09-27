@@ -31,7 +31,7 @@ featured_image_alt: "OR30SCG4X1 30 Classic Series Freestanding Gas Range with 3.
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/3b3vw"
+    href="https://www.amazon.com/dp/B07GSFKNTK?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -140,7 +140,7 @@ Despite excellent broiling results, this range performs extremely poorly when ba
 
 ---
 
-### [Fisher & Paykel Classic Series 7 OR30SCG4X1](https://geni.us/3b3vw)
+### [Fisher & Paykel Classic Series 7 OR30SCG4X1](https://www.amazon.com/dp/B07GSFKNTK?tag=crwatchdog-20)
 
 
 <p>
@@ -152,7 +152,7 @@ Despite excellent broiling results, this range performs extremely poorly when ba
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/3b3vw"
+    href="https://www.amazon.com/dp/B07GSFKNTK?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -187,7 +187,7 @@ This was the worst-performing pro-style range tested. While its high-powered bur
 
 If you’re specifically trying to buy a **pro-style looking range on Amazon**, the premium brands above often won’t be sold there directly (or pricing/availability will be inconsistent). These three options are **commonly available on Amazon** and can be strong value *if you go in with eyes open on installation and service support*:
 
-- **[THOR Kitchen HRG3080U (30" Gas Range)](https://geni.us/3MHwjE)
+- **[THOR Kitchen HRG3080U (30" Gas Range)](https://www.amazon.com/dp/B0CMSD6C83?tag=crwatchdog-20)
 
 
 <p>
@@ -199,7 +199,7 @@ If you’re specifically trying to buy a **pro-style looking range on Amazon**, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/3MHwjE"
+    href="https://www.amazon.com/dp/B0CMSD6C83?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -224,7 +224,7 @@ If you’re specifically trying to buy a **pro-style looking range on Amazon**, 
 </div>
 
 ** — A popular “pro-style on a budget” pick with a stainless, commercial-inspired look and a large-capacity oven. Good for buyers who want high-heat burners and a straightforward layout without paying Monogram/Wolf pricing.
-- **[Kucht KNG301 (30" Gas Range)](https://geni.us/APBe2l)
+- **[Kucht KNG301 (30" Gas Range)](https://www.amazon.com/dp/B088WDVJ86?tag=crwatchdog-20)
 
 
 <p>
@@ -236,7 +236,7 @@ If you’re specifically trying to buy a **pro-style looking range on Amazon**, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/APBe2l"
+    href="https://www.amazon.com/dp/B088WDVJ86?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -261,7 +261,7 @@ If you’re specifically trying to buy a **pro-style looking range on Amazon**, 
 </div>
 
 ** — Another well-known value pro-style range that’s frequently available in multiple finishes. Worth a look if you want the aesthetic and a convection oven at a lower price tier.
-- **[Cosmo COS-EPGR304 (30" Gas Range)](https://geni.us/5EbKJy)
+- **[Cosmo COS-EPGR304 (30" Gas Range)](https://www.amazon.com/dp/B088MMCLYX?tag=crwatchdog-20)
 
 
 <p>
@@ -273,7 +273,7 @@ If you’re specifically trying to buy a **pro-style looking range on Amazon**, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/5EbKJy"
+    href="https://www.amazon.com/dp/B088MMCLYX?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

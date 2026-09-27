@@ -22,7 +22,7 @@ featured_image_alt: "LG 65-Inch Class OLED evo C4 Series Smart TV 4K Processor F
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/6FBpAl"
+    href="https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -63,7 +63,7 @@ Below is a CR Watchdog-style guide to the best TVs CR is recommending right now,
 
 If you want a safe pick and don’t want to overthink it:
 
-- **Best all-around OLED value:** [LG OLED65C4PUA](https://geni.us/6FBpAl)
+- **Best all-around OLED value:** [LG OLED65C4PUA](https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20)
 
 
 <p>
@@ -75,7 +75,7 @@ If you want a safe pick and don’t want to overthink it:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/6FBpAl"
+    href="https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -100,7 +100,7 @@ If you want a safe pick and don’t want to overthink it:
 </div>
 
 
-- **Best Samsung OLED value:** [Samsung QN65S90F](https://geni.us/ZdyB)
+- **Best Samsung OLED value:** [Samsung QN65S90F](https://www.amazon.com/dp/B0F2R1NCLK?tag=crwatchdog-20)
 
 
 <p>
@@ -112,7 +112,7 @@ If you want a safe pick and don’t want to overthink it:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ZdyB"
+    href="https://www.amazon.com/dp/B0F2R1NCLK?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -137,7 +137,7 @@ If you want a safe pick and don’t want to overthink it:
 </div>
 
 
-- **Best “money-no-object” OLED:** [Samsung QN65S95F](https://geni.us/vUKBH3)
+- **Best “money-no-object” OLED:** [Samsung QN65S95F](https://www.amazon.com/dp/B0DXMJFJ7W?tag=crwatchdog-20)
 
 
 <p>
@@ -149,7 +149,7 @@ If you want a safe pick and don’t want to overthink it:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/vUKBH3"
+    href="https://www.amazon.com/dp/B0DXMJFJ7W?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -173,7 +173,7 @@ If you want a safe pick and don’t want to overthink it:
   </a>
 </div>
 
- or [LG OLED65G5WUA](https://geni.us/DknT6j)
+ or [LG OLED65G5WUA](https://www.amazon.com/dp/B0DYQR8R98?tag=crwatchdog-20)
 
 
 <p>
@@ -185,7 +185,7 @@ If you want a safe pick and don’t want to overthink it:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/DknT6j"
+    href="https://www.amazon.com/dp/B0DYQR8R98?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -210,7 +210,7 @@ If you want a safe pick and don’t want to overthink it:
 </div>
 
 
-- **Best non-OLED for bright rooms:** [Samsung QN65QN90F](https://geni.us/oFWsC1S)
+- **Best non-OLED for bright rooms:** [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20)
 
 
 <p>
@@ -222,7 +222,7 @@ If you want a safe pick and don’t want to overthink it:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/oFWsC1S"
+    href="https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -258,7 +258,7 @@ Now let’s match the TV to your room and your habits.
 These are the top-tier sets highlighted by CR—strong overall picture quality, excellent HDR performance, and solid usability. Most people will be thrilled with any of them, but each has a “best for” scenario.
 
 ### Samsung QN65S90F
-The [Samsung QN65S90F](https://geni.us/ZdyB) shows up as one of the smartest “top shelf without going insane” OLED buys. It delivers the kind of contrast and HDR punch that makes premium content look premium, with a feature set that’s especially attractive for gamers.
+The [Samsung QN65S90F](https://www.amazon.com/dp/B0F2R1NCLK?tag=crwatchdog-20) shows up as one of the smartest “top shelf without going insane” OLED buys. It delivers the kind of contrast and HDR punch that makes premium content look premium, with a feature set that’s especially attractive for gamers.
 
 This model is a great reminder of what OLED does well: dark scenes stay dark, and bright highlights don’t smear or “bloom” into the surrounding image. If you watch a lot of moody shows—crime dramas, sci‑fi, prestige TV with dim lighting—OLED simply makes it easier to see what the director intended without cranking brightness and wrecking black levels.
 
@@ -268,7 +268,7 @@ Gaming is a strength here too: high refresh rate support, variable refresh rate,
 **Think twice if:** Dolby Vision is a must-have for your streaming setup.
 
 ### LG OLED65C4PUA
-If you want the cleanest “default recommendation” on this whole list, it’s the [LG OLED65C4PUA](https://geni.us/6FBpAl). LG’s C-series is the long-running sweet spot: a premium OLED panel with the features most people actually use, without forcing you into the “gallery” price tier.
+If you want the cleanest “default recommendation” on this whole list, it’s the [LG OLED65C4PUA](https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20). LG’s C-series is the long-running sweet spot: a premium OLED panel with the features most people actually use, without forcing you into the “gallery” price tier.
 
 OLED’s advantage shows up in the moments you can’t fake: a candle-lit room, a night skyline, space scenes, a dim hallway in a thriller. LED/LCD TVs can get bright, but they still rely on zones of backlight. When a bright object appears on a dark background, those zones can glow around it. OLED avoids that with pixel-level control, so edges stay cleaner and dark scenes look more composed.
 
@@ -278,7 +278,7 @@ LG also supports **Dolby Vision**, which matters if most of your viewing is Netf
 **Think twice if:** your TV lives in harsh daytime glare and you refuse to close blinds.
 
 ### Samsung QN65S95F
-The [Samsung QN65S95F](https://geni.us/vUKBH3) is Samsung’s “best of the best” OLED lane—more performance headroom, more HDR impact, and a more premium overall feel.
+The [Samsung QN65S95F](https://www.amazon.com/dp/B0DXMJFJ7W?tag=crwatchdog-20) is Samsung’s “best of the best” OLED lane—more performance headroom, more HDR impact, and a more premium overall feel.
 
 Here’s who notices the difference: people who watch a lot of HDR movies and want highlights to look *electric* without sacrificing dark-scene detail. Flagship OLEDs tend to improve the parts of OLED that used to be its compromise—peak brightness and highlight intensity—while keeping the black-level advantages that make OLED special.
 
@@ -286,7 +286,7 @@ Here’s who notices the difference: people who watch a lot of HDR movies and wa
 **Think twice if:** you’d rather put the extra money into a great soundbar and still get an excellent TV.
 
 ### LG OLED65G5WUA
-LG’s G-series is the flagship lane, and the [LG OLED65G5WUA](https://geni.us/DknT6j) is for shoppers who want top-tier picture performance and a premium build.
+LG’s G-series is the flagship lane, and the [LG OLED65G5WUA](https://www.amazon.com/dp/B0DYQR8R98?tag=crwatchdog-20) is for shoppers who want top-tier picture performance and a premium build.
 
 This is the kind of set that rewards good content. When you feed it high-bitrate streaming, a quality Blu‑ray, or modern console HDR, you get an image that looks controlled: bright where it should be, dark where it should be, and textured in the mid-tones instead of flattening into mush. OLED tends to look more natural in dim scenes, especially when you turn off the worst “soap opera” motion settings.
 
@@ -294,7 +294,7 @@ This is the kind of set that rewards good content. When you feed it high-bitrate
 **Think twice if:** you’re not going to notice (or care about) the difference between “excellent” and “best-in-class.”
 
 ### Samsung QN65QN90F (bright-room alternative)
-OLED dominates dark-room movie performance, but in bright rooms, a premium Mini‑LED can be the smarter play. The [Samsung QN65QN90F](https://geni.us/oFWsC1S) is the “don’t ignore this” model on CR’s top list.
+OLED dominates dark-room movie performance, but in bright rooms, a premium Mini‑LED can be the smarter play. The [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20) is the “don’t ignore this” model on CR’s top list.
 
 If your TV sits opposite windows, or you watch a lot of daytime sports, the practical goal is: stay bright, keep reflections under control, and keep the image punchy even with sunlight. This is where a strong LCD can shine (sometimes literally). You’re trading perfect blacks for more brute-force brightness and often better daytime visibility.
 
@@ -307,7 +307,7 @@ If your TV sits opposite windows, or you watch a lot of daytime sports, the prac
 
 Consumer Reports also includes high-performing models from prior years that remain excellent buys *if* you can find them discounted:
 
-- [Samsung QN65S90D](https://geni.us/XuWQe)
+- [Samsung QN65S90D](https://www.amazon.com/dp/B0CV9VGMPT?tag=crwatchdog-20)
 
 
 <p>
@@ -319,7 +319,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/XuWQe"
+    href="https://www.amazon.com/dp/B0CV9VGMPT?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -344,7 +344,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </div>
 
 
-- [Samsung QN65S95D](https://geni.us/uqqoj)
+- [Samsung QN65S95D](https://www.amazon.com/dp/B0CV9BPF93?tag=crwatchdog-20)
 
 
 <p>
@@ -356,7 +356,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uqqoj"
+    href="https://www.amazon.com/dp/B0CV9BPF93?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -381,7 +381,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </div>
 
 
-- [Sony XR-65A95L](https://geni.us/F80Gb3G)
+- [Sony XR-65A95L](https://www.amazon.com/dp/B0D53MJZTG?tag=crwatchdog-20)
 
 
 <p>
@@ -393,7 +393,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/F80Gb3G"
+    href="https://www.amazon.com/dp/B0D53MJZTG?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -418,7 +418,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </div>
 
 
-- [Sony K65XR80M2](https://geni.us/cXHR8)
+- [Sony K65XR80M2](https://www.amazon.com/dp/B0F8K74L91?tag=crwatchdog-20)
 
 
 <p>
@@ -430,7 +430,7 @@ Consumer Reports also includes high-performing models from prior years that rema
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/cXHR8"
+    href="https://www.amazon.com/dp/B0F8K74L91?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -470,7 +470,7 @@ The [Samsung QN65S84FA](https://www.samsung.com/ca/tvs/oled-tv/s84f-65-inch-oled
 **Watchdog tip:** it’s a great deal at a great price—and a mediocre deal if it drifts too close to higher-tier OLEDs like the S90F.
 
 ### Samsung QN65Q80DD (strong everyday value)
-The [Samsung QN65Q80DD](https://geni.us/pxKW)
+The [Samsung QN65Q80DD](https://www.amazon.com/dp/B0CVS4FWFY?tag=crwatchdog-20)
 
 
 <p>
@@ -482,7 +482,7 @@ The [Samsung QN65Q80DD](https://geni.us/pxKW)
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/pxKW"
+    href="https://www.amazon.com/dp/B0CVS4FWFY?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -510,7 +510,7 @@ The [Samsung QN65Q80DD](https://geni.us/pxKW)
 
 ### LG 65QNED90TUA / LG 65QNED92AUA (bright-room value picks)
 If you want brightness and big-screen impact without paying OLED pricing, LG’s QNED lane is worth a look:
-- [LG 65QNED90TUA](https://geni.us/WoiZG)
+- [LG 65QNED90TUA](https://www.amazon.com/dp/B0CVSJMZCT?tag=crwatchdog-20)
 
 
 <p>
@@ -522,7 +522,7 @@ If you want brightness and big-screen impact without paying OLED pricing, LG’s
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/WoiZG"
+    href="https://www.amazon.com/dp/B0CVSJMZCT?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -547,7 +547,7 @@ If you want brightness and big-screen impact without paying OLED pricing, LG’s
 </div>
 
 
-- [LG 65QNED92AUA](https://geni.us/4bki)
+- [LG 65QNED92AUA](https://www.amazon.com/dp/B0DYQRNPJ8?tag=crwatchdog-20)
 
 
 <p>
@@ -559,7 +559,7 @@ If you want brightness and big-screen impact without paying OLED pricing, LG’s
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/4bki"
+    href="https://www.amazon.com/dp/B0DYQRNPJ8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -588,7 +588,7 @@ If you want brightness and big-screen impact without paying OLED pricing, LG’s
 These are sensible choices for living rooms with lots of ambient light, where “punch” matters more than absolute black-level perfection.
 
 ### Sony XR-65X90L (balanced motion and processing)
-The [Sony XR-65X90L](https://geni.us/LBssE)
+The [Sony XR-65X90L](https://www.amazon.com/dp/B0BYPLCFDS?tag=crwatchdog-20)
 
 
 <p>
@@ -600,7 +600,7 @@ The [Sony XR-65X90L](https://geni.us/LBssE)
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/LBssE"
+    href="https://www.amazon.com/dp/B0BYPLCFDS?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -627,7 +627,7 @@ The [Sony XR-65X90L](https://geni.us/LBssE)
  sticks around because it’s consistently good at the things people notice day-to-day—especially motion handling and overall picture balance. If you watch sports, cable TV, or a lot of mixed content, Sony’s processing can be a real advantage.
 
 ### Hisense 65U75QG (aggressive value)
-Hisense keeps showing up as a serious value brand, and CR’s list reflects that. The [Hisense 65U75QG](https://geni.us/6cwo)
+Hisense keeps showing up as a serious value brand, and CR’s list reflects that. The [Hisense 65U75QG](https://www.amazon.com/dp/B0F1DWQKXC?tag=crwatchdog-20)
 
 
 <p>
@@ -639,7 +639,7 @@ Hisense keeps showing up as a serious value brand, and CR’s list reflects that
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/6cwo"
+    href="https://www.amazon.com/dp/B0F1DWQKXC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -666,7 +666,7 @@ Hisense keeps showing up as a serious value brand, and CR’s list reflects that
  is a good “features per dollar” candidate if you want a modern TV experience without flagship pricing.
 
 ### Roku 65R8B5 (simple smart TV experience)
-The [Roku 65R8B5](https://geni.us/q8VkBwR)
+The [Roku 65R8B5](https://www.amazon.com/dp/B0CVPHD45S?tag=crwatchdog-20)
 
 
 <p>
@@ -678,7 +678,7 @@ The [Roku 65R8B5](https://geni.us/q8VkBwR)
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/q8VkBwR"
+    href="https://www.amazon.com/dp/B0CVPHD45S?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -705,7 +705,7 @@ The [Roku 65R8B5](https://geni.us/q8VkBwR)
  is appealing if you want the simplest smart-TV experience—fast interface, straightforward apps, minimal drama. Picture quality tends to be more “good for the price” than “wow,” but simplicity matters for a lot of households.
 
 ### TCL 65QM7K (big-screen value play)
-TCL is a perennial “big screen for the money” brand, and the [TCL 65QM7K](https://geni.us/XE1q)
+TCL is a perennial “big screen for the money” brand, and the [TCL 65QM7K](https://www.amazon.com/dp/B0DVX8WJ7S?tag=crwatchdog-20)
 
 
 <p>
@@ -717,7 +717,7 @@ TCL is a perennial “big screen for the money” brand, and the [TCL 65QM7K](ht
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/XE1q"
+    href="https://www.amazon.com/dp/B0DVX8WJ7S?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -753,8 +753,8 @@ This is where most people get tricked: they shop by buzzwords instead of by room
 If you sit closer than you think, you can justify a bigger screen than you think. For many living rooms, 65" is the “new normal,” and 75" is often the “wow” upgrade that actually feels like an upgrade. If you’re debating 65 vs 75 and your room can handle it, lean bigger—resolution is not the limiting factor anymore; immersion is.
 
 ### Step 2: Pick your room type
-- **Dark-room / movie-first:** OLED (like [LG OLED65C4PUA](https://geni.us/6FBpAl)) is usually the best use of money.
-- **Bright-room / sports / all-day TV:** a premium Mini‑LED (like [Samsung QN65QN90F](https://geni.us/oFWsC1S)) can be the more satisfying real-world pick.
+- **Dark-room / movie-first:** OLED (like [LG OLED65C4PUA](https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20)) is usually the best use of money.
+- **Bright-room / sports / all-day TV:** a premium Mini‑LED (like [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20)) can be the more satisfying real-world pick.
 
 ### Step 3: Know your HDR ecosystem
 - If you live in **Dolby Vision** (Netflix, Disney+, Apple TV+), LG and Sony tend to fit better.
@@ -774,7 +774,7 @@ If your TV is basically a 12-hour-a-day “background screen” with lots of sta
 
 ## Watchdog buying rules
 
-1. **Pick your room first, then pick your TV.** Bright room? Favor a strong LCD/Mini‑LED like the [Samsung QN65QN90F](https://geni.us/oFWsC1S). Dark room and movies? OLED is the safe move.
+1. **Pick your room first, then pick your TV.** Bright room? Favor a strong LCD/Mini‑LED like the [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20). Dark room and movies? OLED is the safe move.
 2. **Don’t pay extra for a feature you won’t use.** If you’re not gaming, don’t chase 144Hz specs.
 3. **Decide your HDR ecosystem.** Dolby Vision matters to a lot of streamers (LG and Sony support it). Samsung doesn’t.
 4. **Budget for sound.** Even “good” TV speakers are still TV speakers. If you care about dialogue, plan on a soundbar.
@@ -821,12 +821,12 @@ TV pricing is seasonal. The safest pattern:
 
 ## Bottom line
 
-Consumer Reports’ 2026 list makes one theme clear: **OLED still dominates “best overall,”** with LG and Samsung trading punches depending on what you value (Dolby Vision vs Samsung’s gaming-forward ecosystem). But CR also signals that a premium Mini‑LED/LCD—especially something like Samsung’s [QN65QN90F](https://geni.us/oFWsC1S)—can be the smartest choice in bright, real-world living rooms.
+Consumer Reports’ 2026 list makes one theme clear: **OLED still dominates “best overall,”** with LG and Samsung trading punches depending on what you value (Dolby Vision vs Samsung’s gaming-forward ecosystem). But CR also signals that a premium Mini‑LED/LCD—especially something like Samsung’s [QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20)—can be the smartest choice in bright, real-world living rooms.
 
 If you want the simplest shortlist:
-- [LG OLED65C4PUA](https://geni.us/6FBpAl) is the clean all-around choice.
-- [Samsung QN65S90F](https://geni.us/ZdyB) is the Samsung OLED value standout.
-- [Samsung QN65QN90F](https://geni.us/oFWsC1S) is the bright-room alternative you shouldn’t ignore.
+- [LG OLED65C4PUA](https://www.amazon.com/dp/B0CVS18PH9?tag=crwatchdog-20) is the clean all-around choice.
+- [Samsung QN65S90F](https://www.amazon.com/dp/B0F2R1NCLK?tag=crwatchdog-20) is the Samsung OLED value standout.
+- [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20) is the bright-room alternative you shouldn’t ignore.
 - If your budget is capped near $1,000, [Samsung QN65S84FA](https://www.samsung.com/ca/tvs/oled-tv/s84f-65-inch-oled-4k-smart-tv-qn65s84faexzc/) is the value OLED to watch—assuming you can land it at the right price.
 
 ---

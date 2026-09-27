@@ -23,7 +23,7 @@ featured_image_alt: "YETI Tundra 45 Cooler Desert Tan hero image"
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uN9MuN"
+    href="https://www.amazon.com/dp/B001COUOYK?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -71,7 +71,7 @@ The testing procedure was precise:
 
 ## The Best Coolers: Lab-Tested Rankings
 
-### [RTIC Outdoors 52 Quart Ultra-Light Cooler](https://geni.us/txEriS)
+### [RTIC Outdoors 52 Quart Ultra-Light Cooler](https://www.amazon.com/s?k=RTIC+Outdoors+52+Quart+Ultra-Light+Cooler&tag=crwatchdog-20)
 * **Overall Rating:** Top Pick
 * **Estimated Price:** $206.99
 * **Weight:** 21 pounds (empty)
@@ -83,7 +83,7 @@ The RTIC Outdoors 52 Quart Ultra-Light Cooler is the undisputed champion of this
 
 ---
 
-### [YETI Tundra 45 Hard Cooler](https://geni.us/uN9MuN)
+### [YETI Tundra 45 Hard Cooler](https://www.amazon.com/dp/B001COUOYK?tag=crwatchdog-20)
 
 
 <p>
@@ -95,7 +95,7 @@ The RTIC Outdoors 52 Quart Ultra-Light Cooler is the undisputed champion of this
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uN9MuN"
+    href="https://www.amazon.com/dp/B001COUOYK?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -137,7 +137,7 @@ The YETI Tundra 45 Hard Cooler was Consumer Reports' previous winner, and it rem
 
 ---
 
-### [Igloo Latitude 52 Quart Cooler](https://geni.us/wEAtQ9A)
+### [Igloo Latitude 52 Quart Cooler](https://www.amazon.com/dp/B081QWW7Z8?tag=crwatchdog-20)
 
 
 <p>
@@ -149,7 +149,7 @@ The YETI Tundra 45 Hard Cooler was Consumer Reports' previous winner, and it rem
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/wEAtQ9A"
+    href="https://www.amazon.com/dp/B081QWW7Z8?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -189,7 +189,7 @@ If you want solid performance without spending hundreds of dollars, the Igloo La
 
 ---
 
-### [Pelican 50QT Elite Cooler](https://geni.us/1B8z7HY)
+### [Pelican 50QT Elite Cooler](https://www.amazon.com/dp/B06ZYC5JYH?tag=crwatchdog-20)
 
 
 <p>
@@ -201,7 +201,7 @@ If you want solid performance without spending hundreds of dollars, the Igloo La
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/1B8z7HY"
+    href="https://www.amazon.com/dp/B06ZYC5JYH?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -243,7 +243,7 @@ The Pelican 50QT Elite Cooler is built like a tank and backed by a lifetime warr
 
 ---
 
-### [Coleman Classic Series 52 Quart Hard Cooler](https://geni.us/BrUk)
+### [Coleman Classic Series 52 Quart Hard Cooler](https://www.amazon.com/s?k=Coleman+Classic+Series+52+Quart+Hard+Cooler&tag=crwatchdog-20)
 * **Overall Rating:** Best for Shorter Trips
 * **Estimated Price:** $44.24
 * **Weight:** 8.6 pounds (empty)
@@ -255,7 +255,7 @@ The Coleman Classic Series 52 Quart Hard Cooler is a lightweight, high-capacity 
 
 ---
 
-### [Coleman Snap 'N Go 45-Quart Collapsible Hard Cooler](https://geni.us/cYBPUf5)
+### [Coleman Snap 'N Go 45-Quart Collapsible Hard Cooler](https://www.amazon.com/s?k=Coleman+Snap+N+Go+45+Quart+Collapsible+Hard+Cooler&tag=crwatchdog-20)
 * **Overall Rating:** Good for Storing in Tight Spaces
 * **Estimated Price:** $153.99
 * **Weight:** 16.4 pounds (empty)
@@ -271,6 +271,6 @@ The Coleman Snap 'N Go 45-Quart Collapsible Hard Cooler is a unique hybrid desig
 
 Your choice should depend entirely on your adventure style, storage space, and budget:
 
-* **For serious campers and multi-day trips:** The [RTIC Outdoors 52 Quart](https://geni.us/txEriS) offers the absolute best thermal performance for the price. If you need bear-resistance and a bulletproof build, the [Yeti Tundra 45](https://geni.us/uN9MuN) is worth the premium. If you prioritize extreme durability and a lifetime warranty, the [Pelican 50QT Elite](https://geni.us/1B8z7HY) is a tank, albeit a very heavy one.
-* **For beach days, barbecues, and short trips:** The [Igloo Latitude 52 Quart](https://geni.us/wEAtQ9A) is the smartest budget buy, offering great cold retention for short trips. If you want the absolute lightest weight option, the [Coleman Classic Series 52 Quart](https://geni.us/BrUk) is under 10 pounds and extremely affordable.
-* **For those with limited storage space:** The [Coleman Snap 'N Go](https://geni.us/cYBPUf5) is a neat novelty that folds flat, but its high price and poor thermal performance make it hard to recommend unless folding flat is an absolute must-have feature for you.
+* **For serious campers and multi-day trips:** The [RTIC Outdoors 52 Quart](https://www.amazon.com/s?k=RTIC+Outdoors+52+Quart+Ultra-Light+Cooler&tag=crwatchdog-20) offers the absolute best thermal performance for the price. If you need bear-resistance and a bulletproof build, the [Yeti Tundra 45](https://www.amazon.com/dp/B001COUOYK?tag=crwatchdog-20) is worth the premium. If you prioritize extreme durability and a lifetime warranty, the [Pelican 50QT Elite](https://www.amazon.com/dp/B06ZYC5JYH?tag=crwatchdog-20) is a tank, albeit a very heavy one.
+* **For beach days, barbecues, and short trips:** The [Igloo Latitude 52 Quart](https://www.amazon.com/dp/B081QWW7Z8?tag=crwatchdog-20) is the smartest budget buy, offering great cold retention for short trips. If you want the absolute lightest weight option, the [Coleman Classic Series 52 Quart](https://www.amazon.com/s?k=Coleman+Classic+Series+52+Quart+Hard+Cooler&tag=crwatchdog-20) is under 10 pounds and extremely affordable.
+* **For those with limited storage space:** The [Coleman Snap 'N Go](https://www.amazon.com/s?k=Coleman+Snap+N+Go+45+Quart+Collapsible+Hard+Cooler&tag=crwatchdog-20) is a neat novelty that folds flat, but its high price and poor thermal performance make it hard to recommend unless folding flat is an absolute must-have feature for you.

@@ -23,7 +23,7 @@ featured_image_alt: "Bosch Unlimited 10 Cordless Stick Vacuum Cleaner hero image
 
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uDDKeHF"
+    href="https://www.amazon.com/dp/B0G318V8TR?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -56,7 +56,7 @@ If you are still lugging a heavy, clunky corded vacuum up and down your stairs, 
 
 But there is a massive catch: the price. With premium models from big-name brands routinely crossing the $700 or even $800 mark, finding the sweet spot between raw suction power and actual value is harder than ever. 
 
-Enter the **[Bosch Unlimited 10 BCS1041TUC](https://geni.us/uDDKeHF)**. Priced at $479.00, it sits right in the middle of the market. It is not a cheap throwaway vacuum, but it also won't require you to take out a small loan. 
+Enter the **[Bosch Unlimited 10 BCS1041TUC](https://www.amazon.com/dp/B0G318V8TR?tag=crwatchdog-20)**. Priced at $479.00, it sits right in the middle of the market. It is not a cheap throwaway vacuum, but it also won't require you to take out a small loan. 
 
 <p>
   <img
@@ -68,7 +68,7 @@ Enter the **[Bosch Unlimited 10 BCS1041TUC](https://geni.us/uDDKeHF)**. Priced a
 
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uDDKeHF"
+    href="https://www.amazon.com/dp/B0G318V8TR?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

@@ -31,7 +31,7 @@ featured_image_alt: "Frigidaire GDSH4715A Gallery 24 Inch Built-In Top Control D
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/zlxdyXp"
+    href="https://www.amazon.com/dp/B0CNL9K9Q4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -75,7 +75,7 @@ But here at CR Watchdog, we do not care about the marketing fluff—we care abou
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/zlxdyXp"
+    href="https://www.amazon.com/dp/B0CNL9K9Q4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -101,7 +101,7 @@ But here at CR Watchdog, we do not care about the marketing fluff—we care abou
 
 ## The Breakdown: Top Controls, 5 Cycles, and "MaxBoost Dry™"
 
-If you are eyeing a [Frigidaire model branded as a **"Built-In Top Control Dishwasher with 5 Wash Cycles and MaxBoost Dry™,"**](https://geni.us/zlxdyXp) here is what that actually translates to in your kitchen:
+If you are eyeing a [Frigidaire model branded as a **"Built-In Top Control Dishwasher with 5 Wash Cycles and MaxBoost Dry™,"**](https://www.amazon.com/dp/B0CNL9K9Q4?tag=crwatchdog-20) here is what that actually translates to in your kitchen:
 
 *   **Top Control Design:** The "top control" layout hides the buttons along the top lip of the dishwasher door. Aesthetically, this is a massive win—it gives your kitchen a sleek, uninterrupted stainless steel facade. Practically, it’s a mixed bag. Because the controls are hidden under your countertop while the machine runs, you completely lose the "time-remaining" LED display. Frigidaire tries to compensate with an indicator light that beams onto your floor, but if you like to know exactly how many minutes are left in a cycle, top controls will frustrate you.
 *   **The 5 Wash Cycles:** Don't let the marketing convince you this is a revolutionary feature. The five cycles (usually Heavy, Normal, China/Crystal, Energy Saver, and Rinse Only) are the absolute bare-minimum industry standard. While the inclusion of a dedicated China/Crystal cycle is nice for delicate glassware, the 5-cycle lineup is exactly what we expect to see at this price point—nothing more, nothing less. 
@@ -126,4 +126,4 @@ The Frigidaire GDSH4715AF is a highly capable cleaning and drying machine with a
 
 If you find it on sale at the lower end of its price range (around $680), it is a very strong performer for the money. If it is sitting at its full retail price, you might want to look at more reliable brands in that bracket.
 
-*(Check out the [current price of the Frigidaire GDSH4715AF on Amazon](https://geni.us/zlxdyXp).)*
+*(Check out the [current price of the Frigidaire GDSH4715AF on Amazon](https://www.amazon.com/dp/B0CNL9K9Q4?tag=crwatchdog-20).)*

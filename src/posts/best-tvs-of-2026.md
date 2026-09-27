@@ -27,7 +27,7 @@ featured_image_alt: "Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/LAixLy"
+    href="https://www.amazon.com/dp/B0DXMJGQWC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -61,7 +61,7 @@ We have sifted through the latest independent lab tests to bring you the cold, h
 ## The Top Tier: Best Overall TVs
 These models demand a premium price but deliver uncompromising picture quality, exceptional high dynamic range (HDR), and solid audio performance.
 
-* **[Samsung QN65S90F](https://geni.us/LAixLy)
+* **[Samsung QN65S90F](https://www.amazon.com/dp/B0DXMJGQWC?tag=crwatchdog-20)
 
 
 <p>
@@ -73,7 +73,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/LAixLy"
+    href="https://www.amazon.com/dp/B0DXMJGQWC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -98,7 +98,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </div>
 
  (CR Score: 91) : This 65-inch midtier OLED is currently one of the best sets on the market. Gamers will appreciate the maximum 4K 144-hertz refresh rate, while movie buffs get incredible HDR10+ performance. Depending on the size you buy, you are getting either a QD-OLED or WOLED panel. *(Price range: $1297.99 - $1399.99)*.
-* **[LG OLED65G5WUA](https://geni.us/X6ADA3)
+* **[LG OLED65G5WUA](https://www.amazon.com/dp/B0DYQR8R98?tag=crwatchdog-20)
 
 
 <p>
@@ -110,7 +110,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/X6ADA3"
+    href="https://www.amazon.com/dp/B0DYQR8R98?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -135,7 +135,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </div>
 
 (CR Score: 89) : LG’s 2025 flagship model offers top-notch picture quality and stellar HDR performance. It ditches last year's tech for a new "four-stack" OLED panel, also called an RGB tandem panel. The result is an even brighter TV with improved color saturation. It features a blistering 165Hz refresh rate and Dolby Atmos support. *(Price range: $1926.99 - $2299.99)*.
-* **[Sony K65XR80M2](https://geni.us/it4u5o)
+* **[Sony K65XR80M2](https://www.amazon.com/dp/B0DYK7Y2YB?tag=crwatchdog-20)
 
 
 <p>
@@ -147,7 +147,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/it4u5o"
+    href="https://www.amazon.com/dp/B0DYK7Y2YB?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -172,7 +172,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </div>
 
 (CR Score: 81) : Replacing the A95L as Sony's flagship QD-QLED, this set boasts excellent HDR and a unique audio trick. Its Acoustic Surface Audio+ technology utilizes activators behind the screen that turn the whole panel into a speaker. *(Price range: $2698.00 - $2699.99)*.
-* [Samsung QN65QN90F](https://geni.us/EDY2)
+* [Samsung QN65QN90F](https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20)
 
 
 <p>
@@ -184,7 +184,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/EDY2"
+    href="https://www.amazon.com/dp/B0DXMYSQJC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -213,7 +213,7 @@ These models demand a premium price but deliver uncompromising picture quality, 
 ## The Value Picks: Best 65-Inch TVs Under $1,000
 You do not have to spend two grand to get a great picture. These models punch above their weight class, delivering satisfying HDR and very good to excellent overall picture quality for under $1,000.
 
-* [Samsung QN65S84FA](https://geni.us/T34z3m)
+* [Samsung QN65S84FA](https://www.amazon.com/dp/B0DYVPQZRF?tag=crwatchdog-20)
 
 
 <p>
@@ -225,7 +225,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/T34z3m"
+    href="https://www.amazon.com/dp/B0DYVPQZRF?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -250,7 +250,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </div>
 
 (CR Score: 84) : Finding a top-tier OLED under a thousand bucks is rare, making this set (which appears to be exclusive to Best Buy) an incredible value. It delivers Dolby Atmos audio and excellent overall picture quality. *(Price: $899.99)*.
-* [LG 65QNED90TUA](https://geni.us/B9z573)
+* [LG 65QNED90TUA](https://www.amazon.com/dp/B0F1P92X1F?tag=crwatchdog-20)
 
 
 <p>
@@ -262,7 +262,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/B9z573"
+    href="https://www.amazon.com/dp/B0F1P92X1F?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -287,7 +287,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </div>
 
 ** (CR Score: 77) : A higher-end 2024 model featuring Mini LED backlights. It boasts a fairly wide viewing angle for an LCD set and runs on LG's webOS smart TV system. *(Price range: $995.99 - $1099.99)*.
-* **[Hisense 65U75QG](https://geni.us/7Fg1)
+* **[Hisense 65U75QG](https://www.amazon.com/dp/B0F1DWQKXC?tag=crwatchdog-20)
 
 
 <p>
@@ -299,7 +299,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/7Fg1"
+    href="https://www.amazon.com/dp/B0F1DWQKXC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -324,7 +324,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </div>
 
  (CR Score: 72) : This midtier model in Hisense's 2025 ULED TV lineup offers excellent HD and 4K picture quality. It uniquely supports both Dolby Vision and HDR10+, packs a 165Hz game mode, and utilizes the Google TV smart platform. *(Price range: $796.96 - $799.99)*.
-* [TCL 65QM7K](https://geni.us/fTB3)
+* [TCL 65QM7K](https://www.amazon.com/dp/B0DVX8WJ7S?tag=crwatchdog-20)
 
 
 <p>
@@ -336,7 +336,7 @@ You do not have to spend two grand to get a great picture. These models punch ab
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/fTB3"
+    href="https://www.amazon.com/dp/B0DVX8WJ7S?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -376,7 +376,7 @@ Here is what you need to know when shopping for one:
 * **Look for HDMI eARC:** To get the best possible uncompressed audio (like Dolby Atmos) from your TV to your soundbar, ensure both support HDMI eARC.
 * **Don't Forget the Subwoofer:** If you want to actually *feel* the explosions in a movie or the bass in your music, look for a soundbar package that includes a dedicated, separate subwoofer.
 
-*(Check out the [latest deals on top-rated soundbars on Amazon here](https://geni.us/NXcQlF)
+*(Check out the [latest deals on top-rated soundbars on Amazon here](https://www.amazon.com/dp/B0F62YBNSX?tag=crwatchdog-20)
 
 
 <p>
@@ -388,7 +388,7 @@ Here is what you need to know when shopping for one:
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/NXcQlF"
+    href="https://www.amazon.com/dp/B0F62YBNSX?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

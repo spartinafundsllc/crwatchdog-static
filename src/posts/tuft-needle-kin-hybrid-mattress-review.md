@@ -23,7 +23,7 @@ featured_image_alt: "Kin By Tuft & Needle Medium 12 Adaptive Foam Queen Mattress
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/IebBBv"
+    href="https://www.amazon.com/dp/B0DJ2285GF?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -60,7 +60,7 @@ Here is the data-driven breakdown of the **Kin by Tuft & Needle (Amazon) Kin Hyb
 
 ## The Verdict: A Legitimate "Smart Buy"
 
-### [Kin by Tuft & Needle Kin Hybrid Mattress](https://geni.us/IebBBv)
+### [Kin by Tuft & Needle Kin Hybrid Mattress](https://www.amazon.com/dp/B0DJ2285GF?tag=crwatchdog-20)
 
 
 <p>
@@ -72,7 +72,7 @@ Here is the data-driven breakdown of the **Kin by Tuft & Needle (Amazon) Kin Hyb
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/IebBBv"
+    href="https://www.amazon.com/dp/B0DJ2285GF?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

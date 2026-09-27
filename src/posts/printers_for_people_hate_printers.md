@@ -24,7 +24,7 @@ featured_image_alt: "Canon imageCLASS LBP247dw - Monochrome Duplex, Wireless Las
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/1BHRz0M"
+    href="https://www.amazon.com/dp/B0CBNK2RCC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -97,7 +97,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 
 | Model | CR Score | Est. Price | Annual Running Cost | The Watchdog Take |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Canon imageCLASS LBP247dw](https://geni.us/1BHRz0M)
+| **[Canon imageCLASS LBP247dw](https://www.amazon.com/dp/B0CBNK2RCC?tag=crwatchdog-20)
 
 
 <p>
@@ -109,7 +109,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/1BHRz0M"
+    href="https://www.amazon.com/dp/B0CBNK2RCC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -134,7 +134,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 82 | $380.00 | $11 | The highest-rated premium workhorse. |
-| **[Brother HL-L6310DW](https://geni.us/7IDZw8)
+| **[Brother HL-L6310DW](https://www.amazon.com/dp/B0CKWNDCN1?tag=crwatchdog-20)
 
 
 <p>
@@ -146,7 +146,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/7IDZw8"
+    href="https://www.amazon.com/dp/B0CKWNDCN1?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -171,7 +171,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 81 | $469.99 | $8 | A heavy-duty, highly economical option. |
-| **[Canon imageCLASS LBP246dw](https://geni.us/GyAg)
+| **[Canon imageCLASS LBP246dw](https://www.amazon.com/dp/B0CBNM3Q7N?tag=crwatchdog-20)
 
 
 <p>
@@ -183,7 +183,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/GyAg"
+    href="https://www.amazon.com/dp/B0CBNM3Q7N?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -208,7 +208,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 75 | $298.00 | $11 | A fantastic mid-range Canon with excellent text. |
-| **[Brother HL-L6217DW](https://geni.us/ap7maj)
+| **[Brother HL-L6217DW](https://www.amazon.com/dp/B0CGC9HPNH?tag=crwatchdog-20)
 
 
 <p>
@@ -220,7 +220,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/ap7maj"
+    href="https://www.amazon.com/dp/B0CGC9HPNH?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -245,8 +245,8 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 75 | $305.00 | $7 | The absolute king of low running costs. |
-| **[Brother HL-L6210DW](https://geni.us/ap7maj)** | 75 | $329.99 | $8 | Fine overall performance with cheap toner. |
-| **[Brother HL-L5210DN](https://geni.us/AcpZO8)
+| **[Brother HL-L6210DW](https://www.amazon.com/dp/B0CGC9HPNH?tag=crwatchdog-20)** | 75 | $329.99 | $8 | Fine overall performance with cheap toner. |
+| **[Brother HL-L5210DN](https://www.amazon.com/dp/B0CKWP1R6D?tag=crwatchdog-20)
 
 
 <p>
@@ -258,7 +258,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/AcpZO8"
+    href="https://www.amazon.com/dp/B0CKWP1R6D?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -283,7 +283,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 74 | $279.99 | $8 | A solid, smaller-footprint choice. |
-| **[Brother HL-L6210DWT](https://geni.us/HYDfGgy)
+| **[Brother HL-L6210DWT](https://www.amazon.com/dp/B0CGCBZD8B?tag=crwatchdog-20)
 
 
 <p>
@@ -295,7 +295,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/HYDfGgy"
+    href="https://www.amazon.com/dp/B0CGCBZD8B?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -320,7 +320,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </div>
 
 ** | 73 | $499.99 | $8 | Great functionality with standard low Brother costs. |
-| **[Canon imageCLASS LBP172dw](https://geni.us/BjAMX)
+| **[Canon imageCLASS LBP172dw](https://www.amazon.com/dp/B0BXLYTWH3?tag=crwatchdog-20)
 
 
 <p>
@@ -332,7 +332,7 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/BjAMX"
+    href="https://www.amazon.com/dp/B0BXLYTWH3?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -360,25 +360,25 @@ We reviewed the data from nearly 200 models tested by Consumer Reports. Here are
 
 ### The Top Standouts Explained
 
-**[Canon imageCLASS LBP247dw](https://geni.us/1BHRz0M) (The Premium Workhorse)**
+**[Canon imageCLASS LBP247dw](https://www.amazon.com/dp/B0CBNK2RCC?tag=crwatchdog-20) (The Premium Workhorse)**
 Earning a massive Overall Score of 82, this mid-sized, weighty Canon is the absolute highest-rated regular black-and-white laser printer tested in the lab. It boasts great functionality and produces excellent quality text at high speeds. While it has a slightly higher upfront cost, its estimated running cost is a mere $11 per year, making it an incredibly economical long-term investment. Just note that its graphic printing quality is only rated as mediocre.
 
-**[Brother HL-L6310DW](https://geni.us/7IDZw8) (The Efficiency Expert)**
+**[Brother HL-L6310DW](https://www.amazon.com/dp/B0CKWNDCN1?tag=crwatchdog-20) (The Efficiency Expert)**
 Right on Canon's heels is this heavy-duty Brother model. It requires a larger upfront investment (around $470), but it drops your estimated annual running costs down to just $8. Like the Canon, it delivers excellent text quality alongside great functionality. If you print a high volume of paperwork, this machine will quickly pay for itself in toner savings. 
 
-**[Canon imageCLASS LBP246dw](https://geni.us/GyAg) (The Mid-Tier Marvel)**
+**[Canon imageCLASS LBP246dw](https://www.amazon.com/dp/B0CBNM3Q7N?tag=crwatchdog-20) (The Mid-Tier Marvel)**
 If you want the top-tier Canon brand reliability without the $380 price tag, this smaller (but still weighty) model scored a 75 overall. Priced under $300, it also runs at an estimated $11 a year, providing the same excellent text quality and great overall functionality as its more expensive sibling. 
 
-**[Brother HL-L6217DW](https://geni.us/ap7maj) (The Cost-Cutter)**
+**[Brother HL-L6217DW](https://www.amazon.com/dp/B0CGC9HPNH?tag=crwatchdog-20) (The Cost-Cutter)**
 If you absolutely hate buying toner, this is your machine. Earning a solid 75 Overall Score, it boasts an insanely low estimated running cost of just $7 per year. It is a slightly smaller footprint but still delivers the exact same "Excellent" rating for text quality. 
 
-**[Brother HL-L6210DW](https://geni.us/ap7maj)** and **[Brother HL-L6210DWT](https://geni.us/HYDfGgy)**
+**[Brother HL-L6210DW](https://www.amazon.com/dp/B0CGC9HPNH?tag=crwatchdog-20)** and **[Brother HL-L6210DWT](https://www.amazon.com/dp/B0CGCBZD8B?tag=crwatchdog-20)**
 Both of these mid-sized machines are fantastic options if you want standard, reliable Brother performance. The DW model runs about $330, while the heavier DWT model jumps up to roughly $500. Both cost a highly efficient $8 a year to operate, output excellent text, but suffer from sub-par graphics capability.
 
-**[Brother HL-L5210DN](https://geni.us/AcpZO8)**
+**[Brother HL-L5210DN](https://www.amazon.com/dp/B0CKWP1R6D?tag=crwatchdog-20)**
 A smaller, weighty option from Brother. Priced nicely at $280, it matches the $8 annual running cost of the larger models and continues the trend of excellent text combined with sub-par graphics. 
 
-**[Canon imageCLASS LBP172dw](https://geni.us/BjAMX) (The Budget Pick)**
+**[Canon imageCLASS LBP172dw](https://www.amazon.com/dp/B0BXLYTWH3?tag=crwatchdog-20) (The Budget Pick)**
 If you do not want to spend over $300 on a printer, this model earned the official "CR Smart Buy" designation. Priced right around $160, it is a small, mid-weight machine that still delivers excellent text quality. The running cost bumps up slightly to $12 a year, but the initial retail savings make it a perfect fit for a home office that only prints occasionally.
 
 > **Watchdog Tip:** As the data consistently shows, laser printers are fantastic at text, but their graphics performance ranges from mediocre to sub-par. If you try to print high-resolution color graphics or family photos on these machines, you will be disappointed. Use them for what they do best: paperwork!

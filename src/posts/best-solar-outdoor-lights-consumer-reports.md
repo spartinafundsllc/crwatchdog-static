@@ -23,7 +23,7 @@ featured_image_alt: "LEREKAM Solar Lights Outdoor Waterproof Landscape Lights, 4
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/gLTa2"
+    href="https://www.amazon.com/dp/B0C5TRG9D9?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -67,7 +67,7 @@ Below are the top-performing models in each category based on CR's rigorous lab 
 
 Landscape lights are designed to illuminate walkways, garden beds, or patio perimeters. Spotlights cast their light in a concentrated beam in a single area, whereas path/walkway lights disperse light evenly in a circular pattern around the fixture.
 
-### [Lerekam Solar Spot Light](https://geni.us/gLTa2)
+### [Lerekam Solar Spot Light](https://www.amazon.com/dp/B0C5TRG9D9?tag=crwatchdog-20)
 
 
 <p>
@@ -79,7 +79,7 @@ Landscape lights are designed to illuminate walkways, garden beds, or patio peri
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/gLTa2"
+    href="https://www.amazon.com/dp/B0C5TRG9D9?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -119,7 +119,7 @@ Though Lerekam Solar Spot Lights are on the pricier side, they earned the top sp
 
 These lights offer excellent installation flexibility: you can mount them in loose soil using the included plastic ground spikes, screw them onto flat surfaces (like fences or walls), or angle them as needed. They also feature an on/off button and are rechargeable, meaning they won't let you down during cloudy stretches.
 
-### [Gigalumi Grid Solar Pathway Lights](https://geni.us/0yzq)
+### [Gigalumi Grid Solar Pathway Lights](https://www.amazon.com/dp/B084Z3J1KC?tag=crwatchdog-20)
 
 
 <p>
@@ -131,7 +131,7 @@ These lights offer excellent installation flexibility: you can mount them in loo
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/0yzq"
+    href="https://www.amazon.com/dp/B084Z3J1KC?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -177,7 +177,7 @@ Each unit uses a single LED, which casts a dimmer, softer glow than high-powered
 
 Deck lights add both beauty and safety to outdoor structures, illuminating stairs and railings so that guests can safely navigate elevation changes after dark.
 
-### [JSOT Outdoor Solar Deck Lights](https://geni.us/m0LiWXt)
+### [JSOT Outdoor Solar Deck Lights](https://www.amazon.com/s?k=JSOT+Outdoor+Solar+Deck+Lights+12+Pack&tag=crwatchdog-20)
 * **Overall Score:** 74
 * **Estimated Price:** $55.00
 * **Lights in Set:** 12
@@ -187,7 +187,7 @@ Designed to be mounted directly to stair risers or other solid wooden surfaces w
 
 They are wireless and solar-charged, but they also include a manual on/off switch. If you are expecting a string of overcast winter days, you can turn them off to allow them to build up a full charge. 
 
-### [Deckorators 4x4 Solar Outdoor Post Cap Light](https://geni.us/gTWuO)
+### [Deckorators 4x4 Solar Outdoor Post Cap Light](https://www.amazon.com/s?k=Deckorators+4x4+Solar+Outdoor+Post+Cap+Light&tag=crwatchdog-20)
 * **Overall Score:** 64
 * **Estimated Price:** $11.98 - $18.99
 * **Lights in Set:** 1
@@ -203,7 +203,7 @@ It is designed to rest on standard 4x4 wooden posts and mounts using adhesive ra
 
 String lights are the perfect way to add a festive, warm, and inviting flair to a backyard pergola, arbor, or patio dining area.
 
-### [Brightech Pro Solar Powered Outdoor String Lights](https://geni.us/uMXnc0)
+### [Brightech Pro Solar Powered Outdoor String Lights](https://www.amazon.com/dp/B075NS8YXG?tag=crwatchdog-20)
 
 
 <p>
@@ -215,7 +215,7 @@ String lights are the perfect way to add a festive, warm, and inviting flair to 
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/uMXnc0"
+    href="https://www.amazon.com/dp/B075NS8YXG?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

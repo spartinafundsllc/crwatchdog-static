@@ -20,7 +20,7 @@ featured_image_alt: "Newton Baby Galileo Standard Crib, Solid Beech Wood in Ches
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/lGk4"
+    href="https://www.amazon.com/dp/B0CW5ZQ8J4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -53,7 +53,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 
 | Crib | Typical price | Converts to | Best for |
 |---|---:|---|---|
-| [Newton Baby Galileo Convertible Crib](https://geni.us/lGk4)
+| [Newton Baby Galileo Convertible Crib](https://www.amazon.com/dp/B0CW5ZQ8J4?tag=crwatchdog-20)
 
 
 <p>
@@ -65,7 +65,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/lGk4"
+    href="https://www.amazon.com/dp/B0CW5ZQ8J4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -90,7 +90,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </div>
 
  | Under $450 | Toddler bed, daybed | Modern look + included toddler rail |
-| [Delta Children Emery 4-in-1 Convertible Crib](https://geni.us/volB2)
+| [Delta Children Emery 4-in-1 Convertible Crib](https://www.amazon.com/dp/B00KM6G0UG?tag=crwatchdog-20)
 
 
 <p>
@@ -102,7 +102,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/volB2"
+    href="https://www.amazon.com/dp/B00KM6G0UG?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -127,7 +127,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </div>
 
  | Under $250 | Toddler bed, daybed, full-size bed (kits usually required) | Best value, lower front rail |
-| [DaVinci Kalani 4-in-1 Convertible Crib](https://geni.us/AZANt)
+| [DaVinci Kalani 4-in-1 Convertible Crib](https://www.amazon.com/dp/B000FT7NSI?tag=crwatchdog-20)
 
 
 <p>
@@ -139,7 +139,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/AZANt"
+    href="https://www.amazon.com/dp/B000FT7NSI?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -164,7 +164,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </div>
 
  | Under $300 | Toddler bed (kit), daybed, full-size bed (kit) | Simple, flexible mattress heights |
-| [DaVinci Jenny Lind 3-in-1 Convertible Crib](https://geni.us/aSeDqGd)
+| [DaVinci Jenny Lind 3-in-1 Convertible Crib](https://www.amazon.com/dp/B002T1HH1I?tag=crwatchdog-20)
 
 
 <p>
@@ -176,7 +176,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/aSeDqGd"
+    href="https://www.amazon.com/dp/B002T1HH1I?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -201,7 +201,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </div>
 
  | Under $250 | Toddler bed (kit), daybed | Classic spindle style + optional wheels on some versions |
-| [Carter’s by DaVinci Colby 4-in-1 Convertible Crib](https://geni.us/wNvVMK)
+| [Carter’s by DaVinci Colby 4-in-1 Convertible Crib](https://www.amazon.com/dp/B071NRKQHD?tag=crwatchdog-20)
 
 
 <p>
@@ -213,7 +213,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/wNvVMK"
+    href="https://www.amazon.com/dp/B071NRKQHD?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -238,7 +238,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 </div>
 
  | Under $250 | Toddler bed (kit), daybed, full-size bed (kit) | Clean “Scandi” look, many colors |
-| [Dream On Me Ashton 5-in-1 Convertible Crib](https://geni.us/xkkXpT) | Under $200 | Toddler bed (kit), daybed, full-size bed (kit) | Budget pick with lots of conversion paths |
+| [Dream On Me Ashton 5-in-1 Convertible Crib](https://www.amazon.com/dp/B005DW9JX4?tag=crwatchdog-20) | Under $200 | Toddler bed (kit), daybed, full-size bed (kit) | Budget pick with lots of conversion paths |
 
 > Prices change constantly. The point is **what you get for the money**, not the exact number on a random day.
 
@@ -246,7 +246,7 @@ This guide highlights **six cribs under $450** that stand out for real-world usa
 
 ## 1) Newton Baby Galileo Convertible Crib
 
-If you want a crib that looks “high-end nursery” without a $700+ price tag, the **[Newton Baby Galileo Convertible Crib](https://geni.us/lGk4)** is one of the cleanest modern options in this price range. It’s made from beechwood and keeps the design simple—straight lines, minimal fuss.
+If you want a crib that looks “high-end nursery” without a $700+ price tag, the **[Newton Baby Galileo Convertible Crib](https://www.amazon.com/dp/B0CW5ZQ8J4?tag=crwatchdog-20)** is one of the cleanest modern options in this price range. It’s made from beechwood and keeps the design simple—straight lines, minimal fuss.
 
 **Why it’s a smart buy**
 - **Three mattress heights** that are easy to adjust as your baby grows.
@@ -260,7 +260,7 @@ If you want a crib that looks “high-end nursery” without a $700+ price tag, 
 
 ## 2) Delta Children Emery 4-in-1 Convertible Crib
 
-The **[Delta Children Emery 4-in-1 Convertible Crib](https://geni.us/volB2)** is the definition of “spend less, still get something solid.” It’s a popular budget crib, and one practical detail stands out: **the front rail is relatively low**, which can make daily lift-ins and lift-outs easier—especially for shorter caregivers or anyone recovering postpartum.
+The **[Delta Children Emery 4-in-1 Convertible Crib](https://www.amazon.com/dp/B00KM6G0UG?tag=crwatchdog-20)** is the definition of “spend less, still get something solid.” It’s a popular budget crib, and one practical detail stands out: **the front rail is relatively low**, which can make daily lift-ins and lift-outs easier—especially for shorter caregivers or anyone recovering postpartum.
 
 **Why it’s a smart buy**
 - Great price for a **convertible crib** that can last past the baby stage.
@@ -275,7 +275,7 @@ The **[Delta Children Emery 4-in-1 Convertible Crib](https://geni.us/volB2)** is
 
 ## 3) DaVinci Kalani 4-in-1 Convertible Crib
 
-The **[DaVinci Kalani 4-in-1 Convertible Crib](https://geni.us/AZANt)** is a reliable “middle lane” crib: not flashy, but practical. Families often like it because it offers **multiple mattress heights**, and the crib-to-toddler transition is straightforward once you have the right conversion pieces.
+The **[DaVinci Kalani 4-in-1 Convertible Crib](https://www.amazon.com/dp/B000FT7NSI?tag=crwatchdog-20)** is a reliable “middle lane” crib: not flashy, but practical. Families often like it because it offers **multiple mattress heights**, and the crib-to-toddler transition is straightforward once you have the right conversion pieces.
 
 **Why it’s a smart buy**
 - A simple design that tends to age well as your kid grows.
@@ -289,7 +289,7 @@ The **[DaVinci Kalani 4-in-1 Convertible Crib](https://geni.us/AZANt)** is a rel
 
 ## 4) DaVinci Jenny Lind 3-in-1 Convertible Crib
 
-The **[DaVinci Jenny Lind 3-in-1 Convertible Crib](https://geni.us/aSeDqGd)** has that classic spindle look that never really goes out of style. One rare feature today: **some versions include optional lockable wheels**, which can be helpful if you want to slide the crib closer to your bed or reposition it during the day.
+The **[DaVinci Jenny Lind 3-in-1 Convertible Crib](https://www.amazon.com/dp/B002T1HH1I?tag=crwatchdog-20)** has that classic spindle look that never really goes out of style. One rare feature today: **some versions include optional lockable wheels**, which can be helpful if you want to slide the crib closer to your bed or reposition it during the day.
 
 **Why it’s a smart buy**
 - Classic nursery style with a long track record.
@@ -304,7 +304,7 @@ The **[DaVinci Jenny Lind 3-in-1 Convertible Crib](https://geni.us/aSeDqGd)** ha
 
 ## 5) Carter’s by DaVinci Colby 4-in-1 Convertible Crib
 
-If you like a minimalist, Scandinavian-inspired look, the **[Carter’s by DaVinci Colby 4-in-1 Convertible Crib](https://geni.us/wNvVMK)** is a strong option. It’s offered in multiple colors, so it’s easy to match to your nursery plan without paying a custom-finish premium.
+If you like a minimalist, Scandinavian-inspired look, the **[Carter’s by DaVinci Colby 4-in-1 Convertible Crib](https://www.amazon.com/dp/B071NRKQHD?tag=crwatchdog-20)** is a strong option. It’s offered in multiple colors, so it’s easy to match to your nursery plan without paying a custom-finish premium.
 
 **Why it’s a smart buy**
 - Clean style and lots of finish options.
@@ -319,11 +319,11 @@ If you like a minimalist, Scandinavian-inspired look, the **[Carter’s by DaVin
 
 ## 6) Dream On Me Ashton 5-in-1 Convertible Crib
 
-For families trying to keep the nursery budget tight, the **[Dream On Me Ashton 5-in-1 Convertible Crib](https://geni.us/xkkXpT)** offers a lot of conversion paths for not much money. It’s basic, but it can do the job—especially if you value flexibility and don’t need heirloom-level finish quality.
+For families trying to keep the nursery budget tight, the **[Dream On Me Ashton 5-in-1 Convertible Crib](https://www.amazon.com/dp/B005DW9JX4?tag=crwatchdog-20)** offers a lot of conversion paths for not much money. It’s basic, but it can do the job—especially if you value flexibility and don’t need heirloom-level finish quality.
 
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/xkkXpT"
+    href="https://www.amazon.com/dp/B005DW9JX4?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="

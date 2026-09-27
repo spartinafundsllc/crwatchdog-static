@@ -20,7 +20,7 @@ featured_image_alt: "Casper Sleep Snow Hybrid Mattress Queen, Medium Feel Memory
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/MuDBV7"
+    href="https://www.amazon.com/dp/B0FYHV9YWF?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -78,7 +78,7 @@ But here’s the nuance: Casper is not “one mattress.” It’s a portfolio. A
 
 ### Casper Snow: Casper’s best “problem-solver” mattress
 
-If you sleep hot, most mattress advice becomes irrelevant quickly. A mattress can be supportive and comfortable… and still ruin your sleep if it traps heat. That’s why the **[Casper Snow](https://geni.us/MuDBV7)
+If you sleep hot, most mattress advice becomes irrelevant quickly. A mattress can be supportive and comfortable… and still ruin your sleep if it traps heat. That’s why the **[Casper Snow](https://www.amazon.com/dp/B0FYHV9YWF?tag=crwatchdog-20)
 
 
 <p>
@@ -90,7 +90,7 @@ If you sleep hot, most mattress advice becomes irrelevant quickly. A mattress ca
 </p>
 <div style="text-align:center; margin: 1.75rem 0;">
   <a
-    href="https://geni.us/MuDBV7"
+    href="https://www.amazon.com/dp/B0FYHV9YWF?tag=crwatchdog-20"
     target="_blank"
     rel="sponsored nofollow noopener"
     style="
@@ -154,7 +154,7 @@ Casper’s popularity isn’t a fluke. Consumer Reports’ testing-based approac
 
 The right conclusion is:
 
-- If you **sleep hot**, **[Casper Snow](https://geni.us/MuDBV7)** solves a real problem.  
+- If you **sleep hot**, **[Casper Snow](https://www.amazon.com/dp/B0FYHV9YWF?tag=crwatchdog-20)** solves a real problem.  
 - If you want **soft hybrid comfort**, **[Casper Dream](https://casper.com/products/casper-dream-hybrid)** is the smart entry point.  
 - If you want **maximum plush**, **[Casper Dream Max](https://casper.com/products/casper-dream-max-hybrid)** can be the right pick.  
 - If you want **balanced all-foam**, **[Casper The One](https://casper.com/products/casper-one-foam)** is the low-regret buy.
@@ -164,7 +164,7 @@ The right conclusion is:
 Casper mattresses are popular because they’re easy to buy and easy to like. Consumer Reports’ testing-based approach suggests that popularity is deserved—at least for several models that hold up well on support, stability, and durability.
 
 If you want the “pick one and stop thinking about it” guide:
-- Hot sleeper: **[Casper Snow](https://geni.us/MuDBV7)**  
+- Hot sleeper: **[Casper Snow](https://www.amazon.com/dp/B0FYHV9YWF?tag=crwatchdog-20)**  
 - Soft hybrid comfort: **[Casper Dream](https://casper.com/products/casper-dream-hybrid)**  
 - Ultra-plush: **[Casper Dream Max](https://casper.com/products/casper-dream-max-hybrid)**  
 - Balanced all-foam: **[Casper The One](https://casper.com/products/casper-one-foam)**  
